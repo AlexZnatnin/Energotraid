@@ -1,0 +1,33 @@
+{% extends 'main/base.html'%}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+{% block content%}
+<div class="çontainer">
+    {% for n in cp%}
+    <div class="row">
+        <div class="col">
+            <p>{{n.name}}
+            </p>
+        </div>
+        <div class="col">
+            <p>инн/кпп: {{n.inn}}/{{n.kpp}}
+            </p>
+        </div>
+        <div class="col">
+            <p>
+                <a href="{{n.get_absolute_url}}">Изменить</a>
+                <a href="#">удалить</a>
+            </p>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+<p><a href="{% url 'cp_create'%}">Добавить контрагента</a></p>
+{% endblock %}
+</body>
+</html>

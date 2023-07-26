@@ -1,0 +1,34 @@
+{% extends 'main/base.html'%}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+{% block content%}
+<div class="çontainer">
+    {% for n in cont%}
+    <div class="row">
+        <div class="col">
+            <p>номер: {{n.number}}
+            </p>
+        </div>
+        <div class="col">
+            <p>организация: {{n.}}
+            </p>
+        </div>
+        <div class="col">
+            <p>
+                <a href="{{n.get_absolute_url}}">Изменить</a>
+                <a href="#">удалить</a>
+            </p>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+<p><a href="{% url 'cont_create'%}">Добавить контрагента</a></p>
+{% endblock %}
+</body>
+</html>

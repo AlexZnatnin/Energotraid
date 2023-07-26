@@ -1,0 +1,51 @@
+{% load main_tags %}
+{% load static %}
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link type="text/css" href="{% static 'main/css/bootstrap.min.css' %}" rel="stylesheet"/>
+    <style>
+        /* Custom CSS styles */
+        .container {
+            margin-top: 20px;
+        }
+        .logo {
+            margin-bottom: 20px;
+        }
+        .menu {
+            background-color: #f8f9fa;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        .content {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-2">
+                <div class="logo">
+                    <img src="{% static 'main\img\free-icon-power-industry-5496592.png' %}" alt="Logo"style="width: 50px; height: auto;">
+                    <img src="{% static 'main\img\image (1).png' %}" alt="Logo"style="width: 150px; height: auto;">
+                </div>
+                <div class="menu">
+                    {% show_menu %}
+                </div>
+            </div>
+            <div class="col-md-10">
+                <div class="content">
+                    {% block content %}
+                    {% endblock %}
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

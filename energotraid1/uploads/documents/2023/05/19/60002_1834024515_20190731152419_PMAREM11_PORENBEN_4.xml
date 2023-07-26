@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<message class="60002" version="1" generationtime="20190731152419GMT+03">
+<reply-to-file id-in-iasuku="21431549" name="60000_1834024515_20190704131922_pmarem11_porenben.xml">
+<signatures>
+<signature trader-code="BELKAMKO" e-mail="eremeev@izhenergy.ru" signer-name="&quot;Еремеев Сергей Геннадьевич; ООО &quot;&quot;Ижэнергосбыт&quot;&quot;&quot;" signing-time="20190704133029" certificate-serial-number="6BC18F1E00000000504D"/>
+<signature trader-code="ORENBENE" e-mail="Maksim.Vasin@esplus.ru" signer-name="&quot;Васин Максим Олегович;  ОАО &quot;&quot;ЭнергосбыТ Плюс&quot;&quot;&quot;" signing-time="20190712122538" certificate-serial-number="13140A97000000004D66"/>
+</signatures>
+</reply-to-file>
+<body>
+<dictionaries>
+<organizations>
+<organization id-org="1" trader-code="BELKAMKO" name="ООО &quot;Ижэнергосбыт&quot;" phone="" fax="" e-mail="" l-address="426008, Удмуртская Республика, г. Ижевск, ул. Удмуртская, д.304, оф.506" p-address="426034, Удмуртская Республика, г. Ижевск, ул. Удмуртская, д.304, оф.506" contact-info="Еремеев Сергей Геннадьевич, 8-(3412)-570-455, eremeev@izhenergy.ru"/>
+<organization id-org="2" trader-code="ORENBENE" name="АО &quot;ЭнергосбыТ Плюс&quot;" phone="" fax="" e-mail="" l-address="" p-address="" contact-info=""/>
+</organizations>
+<gtps>
+<gtpp id-gtp="1" gtp-code="PMAREM11" gtp-name="ПАО &quot;Орскнефтеоргсинтез&quot;" id-org="1">
+</gtpp>
+<gtpp id-gtp="2" gtp-code="PORENBEN" gtp-name="ОАО &quot;Оренбургэнергосбыт&quot;" id-org="2">
+</gtpp>
+</gtps>
+<power-object-owners>
+<power-object-owner id-power-object-owner="1" name="ПАО «Орскнефтеоргсинтез»" inn="5615002700"/>
+</power-object-owners>
+<aiises>
+<aiis id-aiis="1" id-gtp="1" ats-code="5600004800" name="АИИС ООО &quot;Ижэнергосбыт&quot; (ПАО &quot;Орскнефтеоргсинтез&quot;) {PMAREM11}">
+<area ats-code="5600004803" group-type="2" name="ООО &quot;Ижэнергосбыт&quot; (ПАО &quot;Орскнефтеоргсинтез&quot;) &lt;&gt; АО &quot;ЭнергосбыТ Плюс&quot; (ОАО &quot;Оренбургэнергосбыт&quot;)" time-zone="1">
+</area>
+<area ats-code="5600004802" group-type="1" name="ООО &quot;Ижэнергосбыт&quot; (ПАО &quot;Орскнефтеоргсинтез&quot;) &lt;&gt; АО &quot;ЭнергосбыТ Плюс&quot; (ОАО &quot;Оренбургэнергосбыт&quot;)" time-zone="1">
+</area>
+</aiis>
+</aiises>
+<power-objects>
+<power-object id-power-object="1" guid="5d5064bc-af7f-4c03-85b1-787d43e4e906" ats-code="562070031" name="ПС 110 кВ НПЗ" type="2" is-power-center="true">
+<voltage-levels>
+<voltage-level voltage="110000" />
+</voltage-levels>
+</power-object>
+<power-object id-power-object="2" guid="011b4b38-6a98-4409-a476-fd4646bd643c" ats-code="564070163" name="ВЛ 110 кВ Сакмарская СЭС - НПЗ-2" type="4" is-power-center="false">
+<voltage-levels>
+<voltage-level voltage="110000" />
+</voltage-levels>
+</power-object>
+<power-object id-power-object="3" guid="b51eaee4-a5fc-4b63-a66e-be1cc158cf94" ats-code="562130004" name="ТП-16 10 кВ" type="2" is-power-center="false">
+<voltage-levels>
+<voltage-level voltage="10000" />
+</voltage-levels>
+</power-object>
+<power-object id-power-object="4" guid="80657dbb-4832-4f7e-90dd-5d584bbab522" ats-code="565140001" name="КВЛ 6 кВ ф.5 с ТП-10 на ТП-37, ТП-58 с отпайкой на ЛМВ-1" type="5" is-power-center="false">
+<voltage-levels>
+<voltage-level voltage="6000" />
+</voltage-levels>
+</power-object>
+<power-object id-power-object="5" guid="a258f6d9-ce35-431b-9e97-33e4655d64b4" ats-code="562140001" name="ТП-50 6 кВ" type="2" is-power-center="false">
+<voltage-levels>
+<voltage-level voltage="400" />
+<voltage-level voltage="6000" />
+</voltage-levels>
+</power-object>
+<power-object id-power-object="6" guid="792136a7-f1fc-46b8-8f2b-bd1eac304583" ats-code="562130036" name="КП-2 10 кВ" type="2" is-power-center="false">
+<voltage-levels>
+<voltage-level voltage="10000" />
+</voltage-levels>
+</power-object>
+<power-object id-power-object="7" guid="df7893aa-4920-4584-9283-5854d9c968c4" ats-code="562070033" name="ПС 110 кВ Мехзавод" type="2" is-power-center="true">
+<voltage-levels>
+<voltage-level voltage="10000" />
+<voltage-level voltage="110000" />
+</voltage-levels>
+</power-object>
+<power-object id-power-object="8" guid="9f97ac9e-d299-4f68-8f3b-74564505d948" ats-code="562130003" name="ЦРП-3 10 кВ" type="2" is-power-center="false">
+<voltage-levels>
+<voltage-level voltage="6000" />
+<voltage-level voltage="10000" />
+</voltage-levels>
+</power-object>
+<power-object id-power-object="9" guid="4e7c6031-1dc7-4aa8-a205-311773b2d32c" ats-code="566180059" name="РП-0,4 кВ насосной второго подъема от КТПН-59" type="6" is-power-center="false">
+<voltage-levels>
+<voltage-level voltage="400" />
+</voltage-levels>
+</power-object>
+<power-object id-power-object="10" guid="115710ba-0289-4978-88be-c67d6a6b7d21" ats-code="562130114" name="ТП-48 10 кВ" type="2" is-power-center="false">
+<voltage-levels>
+<voltage-level voltage="400" />
+<voltage-level voltage="10000" />
+</voltage-levels>
+</power-object>
+<power-object id-power-object="11" guid="4a402f53-d154-478f-b201-9c6826c9c9b2" ats-code="562070107" name="ПС 110 кВ НПЗ-2" type="2" is-power-center="true">
+<voltage-levels>
+<voltage-level voltage="6000" />
+<voltage-level voltage="110000" />
+</voltage-levels>
+</power-object>
+<power-object id-power-object="12" guid="87dfdd06-a06b-4ffc-af90-35699e8f2342" ats-code="563070002" name="Орская ТЭЦ-1" type="3" is-power-center="true">
+<voltage-levels>
+<voltage-level voltage="110000" />
+</voltage-levels>
+</power-object>
+<power-object id-power-object="13" guid="0fcf6b3d-dc51-4015-bfb0-a51256b8d0e5" ats-code="562070047" name="ПС 110 кВ ЮУМЗ" type="2" is-power-center="true">
+<voltage-levels>
+<voltage-level voltage="110000" />
+</voltage-levels>
+</power-object>
+</power-objects>
+<measuring-device-modifications>
+<measuring-device-modification id-device-modification="1" device-modification-name="СЭТ-4ТМ.02М.02" ats-code="559A7B5B54A60471E0530A01490A6E4F"/>
+<measuring-device-modification id-device-modification="2" device-modification-name="СЭТ-4ТМ.02М.10" ats-code="559A7B5B56060471E0530A01490A6E4F"/>
+<measuring-device-modification id-device-modification="3" device-modification-name="CE 303 S31 746-JAVZ" ats-code="559A7B5B57130471E0530A01490A6E4F"/>
+<measuring-device-modification id-device-modification="4" device-modification-name="ЦЭ6803В 1 М7 Р32" ats-code="559A7B5B56610471E0530A01490A6E4F"/>
+</measuring-device-modifications>
+<delivery-points>
+<delivery-point id-delivery-point="1" guid="38b4ca15-e8e6-4708-894a-561804cce997" is-group-delivery-point="false" is-for-coding="true" ats-code="562070031107201" method="" schemanum="1" power="" id-power-object="1" point-voltage="110000">
+<name power-object-name="ПС 110 кВ НПЗ" connection-name="ВЛ-110 кВ Орская-НПЗ" location-description="ОРУ-110 кВ" />
+<comment>
+<![CDATA[Способ восстановления информации в случае неисправности ОИП см. п.2 Примечание к ПСИ]]>
+</comment>
+</delivery-point>
+<delivery-point id-delivery-point="2" guid="447af7a4-eedd-4c0e-b8c0-a982411faa1a" is-group-delivery-point="false" is-for-coding="true" ats-code="564070163107102" method="" schemanum="15" power="" id-power-object="2" point-voltage="110000">
+<name power-object-name="ВЛ-110 кВ Сакмарская СЭС - НПЗ-2" connection-name="" location-description="Опора №45" />
+<comment>
+<![CDATA[Способ восстановления информации в случае неисправности ОИП см. п.2 Примечание к ПСИ]]>
+</comment>
+</delivery-point>
+<delivery-point id-delivery-point="3" guid="1cb5db45-bd18-416f-8539-3aa34eb37c34" is-group-delivery-point="false" is-for-coding="true" ats-code="562130004113201" method="" schemanum="3" power="" id-power-object="3" point-voltage="10000">
+<name power-object-name="ТП-16 10 кВ" connection-name="КЛ-10 кВ ф.2" location-description="ЗРУ-10 кВ, 2 с.ш. 10 кВ, яч.2" />
+<comment>
+<![CDATA[Способ восстановления информации в случае неисправности ОИП см. п.2 Примечание к ПСИ]]>
+</comment>
+</delivery-point>
+<delivery-point id-delivery-point="4" guid="b942a528-b205-4188-9b16-eb09a44be2f1" is-group-delivery-point="false" is-for-coding="true" ats-code="565140001114101" method="" schemanum="5" power="" id-power-object="4" point-voltage="6000">
+<name power-object-name="КВЛ-6 кВ ф.5 ТП-10 на ТП-37, ТП-58 с отпайками" connection-name="отпайка в сторону ЛМВ-1" location-description="Предпоследняя опора" />
+<comment>
+<![CDATA[Способ восстановления информации в случае неисправности ОИП см. п.2 Примечание к ПСИ]]>
+</comment>
+</delivery-point>
+<delivery-point id-delivery-point="5" guid="c9e9de81-2fcb-4a73-a742-191b2070b846" is-group-delivery-point="false" is-for-coding="true" ats-code="562140001318101" method="" schemanum="6" power="" id-power-object="5" point-voltage="400">
+<name power-object-name="ТП-50 6 кВ" connection-name="ВЛИ-0,4 кВ" location-description="РУ-0,4 кВ, 1 с.ш. 0,4 кВ, яч.4" />
+<comment>
+<![CDATA[Способ восстановления информации в случае неисправности ОИП см. п.2 Примечание к ПСИ]]>
+</comment>
+</delivery-point>
+<delivery-point id-delivery-point="6" guid="2d191d6a-6cab-4a29-a221-a04cd582d44e" is-group-delivery-point="false" is-for-coding="true" ats-code="562140001318201" method="" schemanum="7" power="" id-power-object="5" point-voltage="400">
+<name power-object-name="ТП-50 6 кВ" connection-name="КЛ-0,4 кВ" location-description="РУ-0,4 кВ, 2 с.ш. 0,4 кВ, яч.1" />
+<comment>
+<![CDATA[Способ восстановления информации в случае неисправности ОИП см. п.2 Примечание к ПСИ]]>
+</comment>
+</delivery-point>
+<delivery-point id-delivery-point="7" guid="4d868c3d-422f-4db5-af54-189626a71311" is-group-delivery-point="false" is-for-coding="true" ats-code="562130036113104" method="" schemanum="8" power="" id-power-object="6" point-voltage="10000">
+<name power-object-name="КП-2 10 кВ" connection-name="КЛ-10 кВ ф.30 Водозабор-1" location-description="ЗРУ-10 кВ, 1 с.ш. 10 кВ, яч.30" />
+<comment>
+<![CDATA[Способ восстановления информации в случае неисправности ОИП см. п.2 Примечание к ПСИ]]>
+</comment>
+</delivery-point>
+<delivery-point id-delivery-point="8" guid="d4039c7b-8cf8-42cd-994d-825161d95f91" is-group-delivery-point="false" is-for-coding="true" ats-code="562070033213101" method="" schemanum="9" power="" id-power-object="7" point-voltage="10000">
+<name power-object-name="ПС 110 кВ Мехзавод" connection-name="КЛ-10 кВ ф.3 Водозабор-2" location-description="ЗРУ-10 кВ, 1 с.ш. 10 кВ, яч.3" />
+<comment>
+<![CDATA[Способ восстановления информации в случае неисправности ОИП см. п.2 Примечание к ПСИ]]>
+</comment>
+</delivery-point>
+<delivery-point id-delivery-point="9" guid="a4d36ced-9ed9-44d2-b3a8-36d6bad15583" is-group-delivery-point="false" is-for-coding="true" ats-code="562130003214202" method="" schemanum="10" power="" id-power-object="8" point-voltage="6000">
+<name power-object-name="ЦРП-3 10 кВ" connection-name="КЛ-6 кВ ф.17" location-description="РУ-6 кВ, 2 с.ш. 6 кВ, яч.17" />
+<comment>
+<![CDATA[Способ восстановления информации в случае неисправности ОИП см. п.2 Примечание к ПСИ]]>
+</comment>
+</delivery-point>
+<delivery-point id-delivery-point="10" guid="9aaf04a3-dae2-4f13-bce4-e0e3f565f58f" is-group-delivery-point="false" is-for-coding="true" ats-code="566180059118101" method="" schemanum="13" power="9000" id-power-object="9" point-voltage="400">
+<name power-object-name="РП-0,4 кВ насосной второго подъема" connection-name="КЛ-0,4 кВ в сторону ВРУ-0,4 кВ нежилого здания по ул. Вяземская,14" location-description="" />
+<comment>
+<![CDATA[Определение объёма потребления электрической энергии в случае неисправности ОИП см. п.4 Примечание к ПСИ]]>
+</comment>
+</delivery-point>
+<delivery-point id-delivery-point="11" guid="1b797418-903d-4a86-a700-fdf9fbe660f1" is-group-delivery-point="false" is-for-coding="true" ats-code="562130114218101" method="" schemanum="14" power="40000" id-power-object="10" point-voltage="400">
+<name power-object-name="ТП-48 10 кВ" connection-name="КЛ-0,4 кВ" location-description="РУ-0,4 кВ, 1 с.ш. 0,4 кВ, Панель №11" />
+<comment>
+<![CDATA[Определение объёма потребления электрической энергии в случае неисправности ОИП см. п.4 Примечание к ПСИ]]>
+</comment>
+</delivery-point>
+<delivery-point id-delivery-point="12" guid="994252f6-82df-49b7-ace1-0ee37c1f54fa" is-group-delivery-point="false" is-for-coding="true" ats-code="565140001114102" method="" schemanum="17" power="" id-power-object="4" point-voltage="6000">
+<name power-object-name="КВЛ-6 кВ ф.5 ПС 110 кВ НПЗ-2" connection-name="" location-description="соединительная кабельная муфта" />
+<comment>
+<![CDATA[Способ восстановления информации в случае неисправности ОИП см. п.2 Примечание к ПСИ]]>
+</comment>
+</delivery-point>
+<delivery-point id-delivery-point="13" guid="292f6642-3dfc-454f-a68e-d2bf8f6639e8" is-group-delivery-point="true" is-for-coding="true" ats-code="562070031107303" method="" schemanum="" power="" composite-name="Гр.ТП ПС 110 кВ НПЗ, ОРУ-110 кВ, ВЛ-110 кВ Орская-НПЗ; ВЛ-110 кВ Сакмарская СЭС-НПЗ-2, Опора №45 (2)">
+</delivery-point>
+</delivery-points>
+<measuring-objects>
+</measuring-objects>
+<measuring-points>
+<measuring-point id-measuring-point="12" ats-code="562070031107101" guid="d7213e08-e473-4d9a-899a-73525c67bee7" id-gtp="1" id-power-object="1" is-pseudo-measurement="false" odu-so="" schemanum="2" measuring-point-type="general" point-voltage="110000">
+<name power-object-name="ПС 110 кВ НПЗ" connection-name="ввод 110 кВ Т2" location-description="ОРУ-110 кВ" />
+<measuring-device id-measuring-device="12" ats-code="01" guid="70b12065-22d8-4a2f-9087-fb5c869a1149" is-for-coding="true" so-device-modification-name ="" serial-number="" id-device-modification="1" precision-class-active="0.2S" precision-class-reactive="0.5">
+<measuring-channel id-measuring-channel="40" ats-code="01"/>
+<measuring-channel id-measuring-channel="41" ats-code="02"/>
+<measuring-channel id-measuring-channel="42" ats-code="03"/>
+<measuring-channel id-measuring-channel="43" ats-code="04"/>
+</measuring-device>
+</measuring-point>
+<measuring-point id-measuring-point="11" ats-code="562070031107201" guid="dab49303-4029-4f04-9d18-525d067e6218" id-gtp="1" id-power-object="1" is-pseudo-measurement="false" odu-so="" schemanum="1" measuring-point-type="general" point-voltage="110000">
+<name power-object-name="ПС 110 кВ НПЗ" connection-name="ввод 110 кВ Т1" location-description="ОРУ-110 кВ" />
+<measuring-device id-measuring-device="11" ats-code="01" guid="125f0ea8-602c-4fae-822d-aeb530e0265f" is-for-coding="true" so-device-modification-name ="" serial-number="" id-device-modification="1" precision-class-active="0.2S" precision-class-reactive="0.5">
+<measuring-channel id-measuring-channel="36" ats-code="01"/>
+<measuring-channel id-measuring-channel="37" ats-code="02"/>
+<measuring-channel id-measuring-channel="38" ats-code="03"/>
+<measuring-channel id-measuring-channel="39" ats-code="04"/>
+</measuring-device>
+</measuring-point>
+<measuring-point id-measuring-point="1" ats-code="562130004113201" guid="3f7c1578-206c-4a36-9a9b-7f5a8620e8d6" id-gtp="1" id-power-object="3" is-pseudo-measurement="false" odu-so="" schemanum="3" measuring-point-type="general" point-voltage="10000">
+<name power-object-name="ТП-16 10 кВ" connection-name="КЛ-10 кВ ф.2" location-description="ЗРУ-10 кВ, 2 с.ш. 10 кВ, яч.2" />
+<measuring-device id-measuring-device="1" ats-code="01" guid="d78c81f7-e6d0-4ad4-b855-1a9cd25a8576" is-for-coding="true" so-device-modification-name ="" serial-number="" id-device-modification="1" precision-class-active="0.2S" precision-class-reactive="0.5">
+<measuring-channel id-measuring-channel="1" ats-code="01"/>
+<measuring-channel id-measuring-channel="2" ats-code="02"/>
+<measuring-channel id-measuring-channel="3" ats-code="03"/>
+<measuring-channel id-measuring-channel="4" ats-code="04"/>
+</measuring-device>
+</measuring-point>
+<measuring-point id-measuring-point="2" ats-code="565140001114101" guid="625ea40b-4625-4a7c-870a-9daa64344a01" id-gtp="2" id-power-object="4" is-pseudo-measurement="false" odu-so="" schemanum="5" measuring-point-type="general" point-voltage="6000">
+<name power-object-name="КВЛ-6 кВ ф.5 ТП-10 на ТП-37, ТП-58 с отпайками" connection-name="ЛМВ-1" location-description="Предпоследняя опора" />
+<measuring-device id-measuring-device="2" ats-code="01" guid="d0c8bba8-1b07-4fb5-9bd6-52fd418bb1e8" is-for-coding="true" so-device-modification-name ="" serial-number="" id-device-modification="1" precision-class-active="0.2S" precision-class-reactive="0.5">
+<measuring-channel id-measuring-channel="5" ats-code="01"/>
+<measuring-channel id-measuring-channel="6" ats-code="02"/>
+<measuring-channel id-measuring-channel="7" ats-code="03"/>
+<measuring-channel id-measuring-channel="8" ats-code="04"/>
+</measuring-device>
+</measuring-point>
+<measuring-point id-measuring-point="3" ats-code="562140001318101" guid="d834a9fa-6507-4649-ad6e-02c941da4fe2" id-gtp="1" id-power-object="5" is-pseudo-measurement="false" odu-so="" schemanum="6" measuring-point-type="general" point-voltage="400">
+<name power-object-name="ТП-50 6 кВ" connection-name="ВЛИ-0,4 кВ" location-description="РУ-0,4 кВ, 1 с.ш. 0,4 кВ, яч.4" />
+<measuring-device id-measuring-device="3" ats-code="01" guid="95d1c02b-4097-4857-80c2-d6aceeb19a3b" is-for-coding="true" so-device-modification-name ="" serial-number="" id-device-modification="2" precision-class-active="0.2S" precision-class-reactive="0.5">
+<measuring-channel id-measuring-channel="9" ats-code="01"/>
+<measuring-channel id-measuring-channel="10" ats-code="02"/>
+<measuring-channel id-measuring-channel="11" ats-code="03"/>
+<measuring-channel id-measuring-channel="12" ats-code="04"/>
+</measuring-device>
+</measuring-point>
+<measuring-point id-measuring-point="4" ats-code="562140001318201" guid="f2acc407-6249-4fc2-8799-9a1fc3275dfb" id-gtp="1" id-power-object="5" is-pseudo-measurement="false" odu-so="" schemanum="7" measuring-point-type="general" point-voltage="400">
+<name power-object-name="ТП-50 6 кВ" connection-name="КЛ-0,4 кВ" location-description="РУ-0,4 кВ, 2 с.ш. 0,4 кВ, яч.1" />
+<measuring-device id-measuring-device="4" ats-code="01" guid="0618da7b-73c5-424c-aad0-8018907006b3" is-for-coding="true" so-device-modification-name ="" serial-number="" id-device-modification="2" precision-class-active="0.2S" precision-class-reactive="0.5">
+<measuring-channel id-measuring-channel="13" ats-code="01"/>
+<measuring-channel id-measuring-channel="14" ats-code="02"/>
+<measuring-channel id-measuring-channel="15" ats-code="03"/>
+<measuring-channel id-measuring-channel="16" ats-code="04"/>
+</measuring-device>
+</measuring-point>
+<measuring-point id-measuring-point="5" ats-code="562130036113104" guid="21226576-a99a-46d5-b594-e67cb688f3d2" id-gtp="2" id-power-object="6" is-pseudo-measurement="false" odu-so="" schemanum="8" measuring-point-type="general" point-voltage="10000">
+<name power-object-name="КП-2 10 кВ" connection-name="КЛ-10 кВ ф.30 Водозабор-1" location-description="ЗРУ-10 кВ, 1 с.ш. 10 кВ, яч.30" />
+<measuring-device id-measuring-device="5" ats-code="01" guid="9a6845fa-44e5-48e2-b4c0-9c0d275f2e55" is-for-coding="true" so-device-modification-name ="" serial-number="" id-device-modification="1" precision-class-active="0.2S" precision-class-reactive="0.5">
+<measuring-channel id-measuring-channel="17" ats-code="01"/>
+<measuring-channel id-measuring-channel="18" ats-code="02"/>
+<measuring-channel id-measuring-channel="19" ats-code="03"/>
+<measuring-channel id-measuring-channel="20" ats-code="04"/>
+</measuring-device>
+</measuring-point>
+<measuring-point id-measuring-point="6" ats-code="562070033213101" guid="ab6537a3-e946-4582-938e-3cd360b19213" id-gtp="1" id-power-object="7" is-pseudo-measurement="false" odu-so="" schemanum="9" measuring-point-type="general" point-voltage="10000">
+<name power-object-name="ПС 110 кВ Мехзавод" connection-name="КЛ-10 кВ ф.3 Водозабор-2" location-description="ЗРУ-10 кВ, 1 с.ш. 10 кВ, яч.3" />
+<measuring-device id-measuring-device="6" ats-code="01" guid="25b50afb-a504-4320-bf91-2112b28c5723" is-for-coding="true" so-device-modification-name ="" serial-number="" id-device-modification="1" precision-class-active="0.2S" precision-class-reactive="0.5">
+<measuring-channel id-measuring-channel="21" ats-code="01"/>
+<measuring-channel id-measuring-channel="22" ats-code="02"/>
+<measuring-channel id-measuring-channel="23" ats-code="03"/>
+<measuring-channel id-measuring-channel="24" ats-code="04"/>
+</measuring-device>
+</measuring-point>
+<measuring-point id-measuring-point="7" ats-code="562130003214202" guid="c7f9ff49-1f65-4780-b193-947051e71552" id-gtp="1" id-power-object="8" is-pseudo-measurement="false" odu-so="" schemanum="10" measuring-point-type="general" point-voltage="6000">
+<name power-object-name="ЦРП-3 10 кВ" connection-name="КЛ-6 кВ ф.17" location-description="РУ-6 кВ, 2 с.ш. 6 кВ, яч.17" />
+<measuring-device id-measuring-device="7" ats-code="01" guid="67028902-95ce-40eb-bb3f-c8c0177e12ee" is-for-coding="true" so-device-modification-name ="" serial-number="" id-device-modification="1" precision-class-active="0.2S" precision-class-reactive="0.5">
+<measuring-channel id-measuring-channel="25" ats-code="01"/>
+<measuring-channel id-measuring-channel="26" ats-code="02"/>
+<measuring-channel id-measuring-channel="27" ats-code="03"/>
+<measuring-channel id-measuring-channel="28" ats-code="04"/>
+</measuring-device>
+</measuring-point>
+<measuring-point id-measuring-point="8" ats-code="566180059118101" guid="1314c400-f757-4b0d-8968-8ab1d806c350" id-gtp="2" id-power-object="9" is-pseudo-measurement="false" odu-so="" schemanum="13" measuring-point-type="general" point-voltage="400">
+<name power-object-name="РП-0,4 кВ насосной второго подъема" connection-name="КЛ-0,4 кВ в сторону ВРУ-0,4 кВ нежилого здания по ул. Вяземская,14" location-description="" />
+<measuring-device id-measuring-device="8" ats-code="01" guid="b8983870-1b61-4feb-a717-f643d3de7e24" is-for-coding="true" so-device-modification-name ="" serial-number="" id-device-modification="4" precision-class-active="1" precision-class-reactive="">
+<measuring-channel id-measuring-channel="29" ats-code="01"/>
+</measuring-device>
+</measuring-point>
+<measuring-point id-measuring-point="9" ats-code="562130114218101" guid="9f6e0855-1981-4516-a8db-94ff12553d73" id-gtp="1" id-power-object="10" is-pseudo-measurement="false" odu-so="" schemanum="14" measuring-point-type="general" point-voltage="400">
+<name power-object-name="ТП-48 10 кВ" connection-name="КЛ-0,4 кВ" location-description="РУ-0,4 кВ, 1 с.ш. 0,4 кВ, Панель №11" />
+<measuring-device id-measuring-device="9" ats-code="01" guid="c915e470-7442-43ff-ab98-5e849d39e745" is-for-coding="true" so-device-modification-name ="" serial-number="" id-device-modification="3" precision-class-active="1" precision-class-reactive="1">
+<measuring-channel id-measuring-channel="30" ats-code="01"/>
+<measuring-channel id-measuring-channel="31" ats-code="03"/>
+</measuring-device>
+</measuring-point>
+<measuring-point id-measuring-point="10" ats-code="562070107314101" guid="60ff3530-e47a-46d7-9b00-8fbba118811d" id-gtp="1" id-power-object="11" is-pseudo-measurement="false" odu-so="" schemanum="17" measuring-point-type="general" point-voltage="6000">
+<name power-object-name="ПС 110 кВ НПЗ-2" connection-name="" location-description="РУ-6 кВ, 1 с.ш. 6 кВ, яч.5" />
+<measuring-device id-measuring-device="10" ats-code="01" guid="b8201cb9-9d86-4f62-8a42-ce5b7b1a56a1" is-for-coding="true" so-device-modification-name ="" serial-number="" id-device-modification="1" precision-class-active="0.2S" precision-class-reactive="0.5">
+<measuring-channel id-measuring-channel="32" ats-code="01"/>
+<measuring-channel id-measuring-channel="33" ats-code="02"/>
+<measuring-channel id-measuring-channel="34" ats-code="03"/>
+<measuring-channel id-measuring-channel="35" ats-code="04"/>
+</measuring-device>
+</measuring-point>
+<measuring-point id-measuring-point="14" ats-code="562070107107201" guid="1b1449f6-96f5-42d1-bb7c-05527e899606" id-gtp="1" id-power-object="11" is-pseudo-measurement="false" odu-so="" schemanum="16" measuring-point-type="general" point-voltage="110000">
+<name power-object-name="ПС 110 кВ НПЗ-2" connection-name="ввод 110 кВ Т2" location-description="ОРУ-110 кВ" />
+<measuring-device id-measuring-device="14" ats-code="01" guid="a76f1831-496d-4c16-8c0f-2e03edb275d9" is-for-coding="true" so-device-modification-name ="" serial-number="" id-device-modification="1" precision-class-active="0.2S" precision-class-reactive="0.5">
+<measuring-channel id-measuring-channel="48" ats-code="01"/>
+<measuring-channel id-measuring-channel="49" ats-code="02"/>
+<measuring-channel id-measuring-channel="50" ats-code="03"/>
+<measuring-channel id-measuring-channel="51" ats-code="04"/>
+</measuring-device>
+</measuring-point>
+<measuring-point id-measuring-point="13" ats-code="562070107107101" guid="57b4dfa8-4803-476c-8c66-0cd40cf4e9a0" id-gtp="1" id-power-object="11" is-pseudo-measurement="false" odu-so="" schemanum="15" measuring-point-type="general" point-voltage="110000">
+<name power-object-name="ПС 110 кВ НПЗ-2" connection-name="ввод 110 кВ Т1" location-description="ОРУ-110 кВ" />
+<measuring-device id-measuring-device="13" ats-code="01" guid="f6db948a-82e8-47b0-a0fe-6cd270e936b9" is-for-coding="true" so-device-modification-name ="" serial-number="" id-device-modification="1" precision-class-active="0.2S" precision-class-reactive="0.5">
+<measuring-channel id-measuring-channel="44" ats-code="01"/>
+<measuring-channel id-measuring-channel="45" ats-code="02"/>
+<measuring-channel id-measuring-channel="46" ats-code="03"/>
+<measuring-channel id-measuring-channel="47" ats-code="04"/>
+</measuring-device>
+</measuring-point>
+</measuring-points>
+</dictionaries>
+<links>
+<power-object-owner-gtp-links>
+<power-object-owner-gtp-link id-power-object-owner="1" id-gtpp="1"/>
+</power-object-owner-gtp-links>
+<ov-measuring-point-links>
+</ov-measuring-point-links>
+<group-delivery-point-composition>
+<group-delivery-point id-group-delivery-point="13" id-simple-delivery-point="1"/>
+<group-delivery-point id-group-delivery-point="13" id-simple-delivery-point="2"/>
+</group-delivery-point-composition>
+<aiis-small-measuring-devices>
+<aiis-small-measuring-device id-aiis="1" id-measuring-device ="8"/>
+<aiis-small-measuring-device id-aiis="1" id-measuring-device ="9"/>
+</aiis-small-measuring-devices>
+<power-center-power-object-links>
+<power-center-power-object-link id-power-center="7" id-power-object="3"/>
+<power-center-power-object-link id-power-center="11" id-power-object="4"/>
+<power-center-power-object-link id-power-center="11" id-power-object="5"/>
+<power-center-power-object-link id-power-center="11" id-power-object="10"/>
+<power-center-power-object-link id-power-center="12" id-power-object="1"/>
+<power-center-power-object-link id-power-center="12" id-power-object="2"/>
+<power-center-power-object-link id-power-center="12" id-power-object="7"/>
+<power-center-power-object-link id-power-center="12" id-power-object="8"/>
+<power-center-power-object-link id-power-center="12" id-power-object="9"/>
+<power-center-power-object-link id-power-center="12" id-power-object="11"/>
+<power-center-power-object-link id-power-center="12" id-power-object="13"/>
+<power-center-power-object-link id-power-center="13" id-power-object="3"/>
+<power-center-power-object-link id-power-center="13" id-power-object="6"/>
+</power-center-power-object-links>
+</links>
+<algorithm>
+  <aup-delivery-points>
+    <aup-delivery-point id-delivery-point="13" id-org="1" id-aiis="1">
+      <receive>
+        <calcsum losses-coefficient="1">
+          <measuring-channel id-measuring-channel="41" coefficient="1"/>
+          <measuring-channel id-measuring-channel="37" coefficient="1"/>
+          <measuring-channel id-measuring-channel="44" coefficient="1"/>
+          <measuring-channel id-measuring-channel="48" coefficient="1"/>
+        </calcsum>
+      </receive>
+      <receive-losses time-ratio="30">
+        <calcformula name="SUM2">
+          <param name="Wa" type="FORMULA">
+            <calcformula name="SUM2">
+              <param name="Wa" type="FORMULA">
+                <calcformula name="SUM2">
+                  <param name="Wa" type="FORMULA">
+                    <calcformula name="SUM2">
+                      <param name="Wa" type="FORMULA">
+                        <calcformula name="MULT1">
+                          <param name="Wa" type="FORMULA">
+                            <calcformula name="MULT2">
+                              <param name="Wa" type="FORMULA">
+                                <calcformula name="SUM1">
+                                  <param name="Wa" type="FORMULA">
+                                    <calcformula name="INV1">
+                                      <param name="Wa" type="FORMULA">
+                                        <calcformula name="SUM1">
+                                          <param name="Wa" type="SUM">
+                                            <calcsum>
+                                              <measuring-channel id-measuring-channel="44" coefficient="1"/>
+                                            </calcsum>
+                                          </param>
+                                          <param name="Wb" type="SUM">
+                                            <calcsum>
+                                              <measuring-channel id-measuring-channel="48" coefficient="1"/>
+                                            </calcsum>
+                                          </param>
+                                        </calcformula>
+                                      </param>
+                                      <param name="C" type="CONST">
+                                        <constvalue>2</constvalue>
+                                      </param>
+                                    </calcformula>
+                                  </param>
+                                  <param name="Wb" type="FORMULA">
+                                    <calcformula name="INV1">
+                                      <param name="Wa" type="FORMULA">
+                                        <calcformula name="SUM1">
+                                          <param name="Wa" type="SUM">
+                                            <calcsum>
+                                              <measuring-channel id-measuring-channel="46" coefficient="1"/>
+                                            </calcsum>
+                                          </param>
+                                          <param name="Wb" type="SUM">
+                                            <calcsum>
+                                              <measuring-channel id-measuring-channel="50" coefficient="1"/>
+                                            </calcsum>
+                                          </param>
+                                        </calcformula>
+                                      </param>
+                                      <param name="C" type="CONST">
+                                        <constvalue>2</constvalue>
+                                      </param>
+                                    </calcformula>
+                                  </param>
+                                </calcformula>
+                              </param>
+                              <param name="C" type="CONST">
+                                <constvalue>8,0073</constvalue>
+                              </param>
+                            </calcformula>
+                          </param>
+                          <param name="Wb" type="FORMULA">
+                            <calcformula name="INV2">
+                              <param name="C1" type="CONST">
+                                <constvalue>10</constvalue>
+                              </param>
+                              <param name="C2" type="CONST">
+                                <constvalue>-9</constvalue>
+                              </param>
+                            </calcformula>
+                          </param>
+                        </calcformula>
+                      </param>
+                      <param name="C" type="CONST">
+                        <constvalue>0,0287</constvalue>
+                      </param>
+                    </calcformula>
+                  </param>
+                  <param name="C" type="CONST">
+                    <constvalue>0,6279</constvalue>
+                  </param>
+                </calcformula>
+              </param>
+              <param name="C" type="CONST">
+                <constvalue>0,1256</constvalue>
+              </param>
+            </calcformula>
+          </param>
+          <param name="C" type="CONST">
+            <constvalue>1,2557</constvalue>
+          </param>
+        </calcformula>
+      </receive-losses>
+    </aup-delivery-point>
+    <aup-delivery-point id-delivery-point="3" id-org="1" id-aiis="1">
+      <send>
+        <calcsum>
+          <measuring-channel id-measuring-channel="1" coefficient="1"/>
+        </calcsum>
+      </send>
+    </aup-delivery-point>
+    <aup-delivery-point id-delivery-point="4" id-org="1" id-aiis="1">
+      <send>
+        <calcsum>
+          <measuring-channel id-measuring-channel="5" coefficient="1"/>
+        </calcsum>
+      </send>
+    </aup-delivery-point>
+    <aup-delivery-point id-delivery-point="5" id-org="1" id-aiis="1">
+      <send>
+        <calcsum>
+          <measuring-channel id-measuring-channel="9" coefficient="1"/>
+        </calcsum>
+      </send>
+    </aup-delivery-point>
+    <aup-delivery-point id-delivery-point="6" id-org="1" id-aiis="1">
+      <send>
+        <calcsum>
+          <measuring-channel id-measuring-channel="13" coefficient="1"/>
+        </calcsum>
+      </send>
+    </aup-delivery-point>
+    <aup-delivery-point id-delivery-point="7" id-org="1" id-aiis="1">
+      <receive>
+        <calcsum>
+          <measuring-channel id-measuring-channel="17" coefficient="1"/>
+        </calcsum>
+      </receive>
+    </aup-delivery-point>
+    <aup-delivery-point id-delivery-point="8" id-org="1" id-aiis="1">
+      <receive>
+        <calcsum>
+          <measuring-channel id-measuring-channel="21" coefficient="1"/>
+        </calcsum>
+      </receive>
+    </aup-delivery-point>
+    <aup-delivery-point id-delivery-point="9" id-org="1" id-aiis="1">
+      <send>
+        <calcsum>
+          <measuring-channel id-measuring-channel="25" coefficient="1"/>
+        </calcsum>
+      </send>
+    </aup-delivery-point>
+    <aup-delivery-point id-delivery-point="10" id-org="1" id-aiis="1">
+      <send>
+        <calcsum>
+          <measuring-channel id-measuring-channel="29" coefficient="1"/>
+        </calcsum>
+      </send>
+    </aup-delivery-point>
+    <aup-delivery-point id-delivery-point="11" id-org="1" id-aiis="1">
+      <send>
+        <calcsum>
+          <measuring-channel id-measuring-channel="30" coefficient="1"/>
+        </calcsum>
+      </send>
+    </aup-delivery-point>
+    <aup-delivery-point id-delivery-point="12" id-org="1" id-aiis="1">
+      <send>
+        <calcsum losses-coefficient="-1">
+          <measuring-channel id-measuring-channel="32" coefficient="1"/>
+        </calcsum>
+      </send>
+      <send-losses time-ratio="30">
+        <calcformula name="USL1">
+          <param name="WR1" type="FORMULA">
+            <calcformula name="EQU1">
+              <param name="Wa" type="SUM">
+                <calcsum>
+                  <measuring-channel id-measuring-channel="32" coefficient="1"/>
+                </calcsum>
+              </param>
+              <param name="C" type="CONST">
+                <constvalue>0</constvalue>
+              </param>
+            </calcformula>
+          </param>
+          <param name="Wa" type="FORMULA">
+            <calcformula name="Константа">
+              <param name="const" type="CONST">
+                <constvalue>0</constvalue>
+              </param>
+            </calcformula>
+          </param>
+          <param name="Wb" type="FORMULA">
+            <calcformula name="SUM2">
+              <param name="Wa" type="FORMULA">
+                <calcformula name="SUM2">
+                  <param name="Wa" type="FORMULA">
+                    <calcformula name="SUM2">
+                      <param name="Wa" type="FORMULA">
+                        <calcformula name="MULT1">
+                          <param name="Wa" type="FORMULA">
+                            <calcformula name="MULT2">
+                              <param name="Wa" type="FORMULA">
+                                <calcformula name="SUM1">
+                                  <param name="Wa" type="FORMULA">
+                                    <calcformula name="INV1">
+                                      <param name="Wa" type="SUM">
+                                        <calcsum>
+                                          <measuring-channel id-measuring-channel="32" coefficient="1"/>
+                                        </calcsum>
+                                      </param>
+                                      <param name="C" type="CONST">
+                                        <constvalue>2</constvalue>
+                                      </param>
+                                    </calcformula>
+                                  </param>
+                                  <param name="Wb" type="FORMULA">
+                                    <calcformula name="INV1">
+                                      <param name="Wa" type="SUM">
+                                        <calcsum>
+                                          <measuring-channel id-measuring-channel="34" coefficient="1"/>
+                                        </calcsum>
+                                      </param>
+                                      <param name="C" type="CONST">
+                                        <constvalue>2</constvalue>
+                                      </param>
+                                    </calcformula>
+                                  </param>
+                                </calcformula>
+                              </param>
+                              <param name="C" type="CONST">
+                                <constvalue>0,00928</constvalue>
+                              </param>
+                            </calcformula>
+                          </param>
+                          <param name="Wb" type="FORMULA">
+                            <calcformula name="INV2">
+                              <param name="C1" type="CONST">
+                                <constvalue>10</constvalue>
+                              </param>
+                              <param name="C2" type="CONST">
+                                <constvalue>-3</constvalue>
+                              </param>
+                            </calcformula>
+                          </param>
+                        </calcformula>
+                      </param>
+                      <param name="C" type="CONST">
+                        <constvalue>0,0226</constvalue>
+                      </param>
+                    </calcformula>
+                  </param>
+                  <param name="C" type="CONST">
+                    <constvalue>0,0034</constvalue>
+                  </param>
+                </calcformula>
+              </param>
+              <param name="C" type="CONST">
+                <constvalue>0,0879</constvalue>
+              </param>
+            </calcformula>
+          </param>
+        </calcformula>
+      </send-losses>
+    </aup-delivery-point>
+  </aup-delivery-points>
+  <peretok id-gtp-from="1" id-gtp-to="2" section-type="1">
+    <calcformula-or-rr name="Гр.ТП ПС 110 кВ НПЗ, ОРУ-110 кВ, ВЛ-110 кВ Орская-НПЗ; ВЛ-110 кВ Сакмарская СЭС-НПЗ-2, Опора №45 (2)">
+      <or id-delivery-point="13" send-receive="receive" id-aiis="1" id-org="1" coefficient="-1"/>
+    </calcformula-or-rr>
+    <calcformula-or-rr name="ТП-16 10 кВ, ЗРУ-10 кВ, 2 с.ш. 10 кВ, яч.2, КЛ-10 кВ ф.2">
+      <or id-delivery-point="3" send-receive="send" id-aiis="1" id-org="1" coefficient="1"/>
+    </calcformula-or-rr>
+    <calcformula-or-rr name="КВЛ-6 кВ ф.5 ТП-10 на ТП-37, ТП-58 с отпайками, Предпоследняя опора, отпайка в сторону ЛМВ-1">
+      <or id-delivery-point="4" send-receive="send" id-aiis="1" id-org="1" coefficient="1"/>
+    </calcformula-or-rr>
+    <calcformula-or-rr name="ТП-50 6 кВ, РУ-0,4 кВ, 1 с.ш. 0,4 кВ, яч.4, ВЛИ-0,4 кВ">
+      <or id-delivery-point="5" send-receive="send" id-aiis="1" id-org="1" coefficient="1"/>
+    </calcformula-or-rr>
+    <calcformula-or-rr name="ТП-50 6 кВ, РУ-0,4 кВ, 2 с.ш. 0,4 кВ, яч.1, КЛ-0,4 кВ">
+      <or id-delivery-point="6" send-receive="send" id-aiis="1" id-org="1" coefficient="1"/>
+    </calcformula-or-rr>
+    <calcformula-or-rr name="КП-2 10 кВ, ЗРУ-10 кВ, 1 с.ш. 10 кВ, яч.30, КЛ-10 кВ ф.30 Водозабор-1">
+      <or id-delivery-point="7" send-receive="receive" id-aiis="1" id-org="1" coefficient="-1"/>
+    </calcformula-or-rr>
+    <calcformula-or-rr name="ПС 110 кВ Мехзавод, ЗРУ-10 кВ, 1 с.ш. 10 кВ, яч.3, КЛ-10 кВ ф.3 Водозабор-2">
+      <or id-delivery-point="8" send-receive="receive" id-aiis="1" id-org="1" coefficient="-1"/>
+    </calcformula-or-rr>
+    <calcformula-or-rr name="ЦРП-3 10 кВ, РУ-6 кВ, 2 с.ш. 6 кВ, яч.17, КЛ-6 кВ ф.17">
+      <or id-delivery-point="9" send-receive="send" id-aiis="1" id-org="1" coefficient="1"/>
+    </calcformula-or-rr>
+    <calcformula-or-rr name="РП-0,4 кВ насосной второго подъема, КЛ-0,4 кВ в сторону ВРУ-0,4 кВ нежилого здания по ул. Вяземская,14">
+      <or id-delivery-point="10" send-receive="send" id-aiis="1" id-org="1" coefficient="1"/>
+    </calcformula-or-rr>
+    <calcformula-or-rr name="ТП-48 10 кВ, РУ-0,4 кВ, 1 с.ш. 0,4 кВ, Панель №11, КЛ-0,4 кВ">
+      <or id-delivery-point="11" send-receive="send" id-aiis="1" id-org="1" coefficient="1"/>
+    </calcformula-or-rr>
+    <calcformula-or-rr name="КВЛ-6 кВ ф.5 ПС 110 кВ НПЗ-2, соединительная кабельная муфта">
+      <or id-delivery-point="12" send-receive="send" id-aiis="1" id-org="1" coefficient="1"/>
+    </calcformula-or-rr>
+  </peretok>
+</algorithm>
+<psi calc-side="1">
+<comment>
+<![CDATA[Определение почасового профиля принятой (отпущенной) электроэнергии:
+2.1.За время неисправности ОИП, определение пропущенных тридцатиминутных интервалов потребленной (отпущенной) электроэнергии осуществляется исходя из среднеарифметического фактического потребления субъекта в соответствующие часы по данным за трое предшествующих аналогичных суток по следующей формуле:
+   Wi = SWiбаз / N, где
+   Wi – величина электроэнергии, замещающая недостоверную информацию, за i – ю тридцатиминутку суток расчетного периода;
+   SWi баз – сумма всех аналогичных i-х тридцатиминутных значений электропотребления по данному присоединению за соответствующие часы по данным за трое предшествующих аналогичных суток;
+ N – количество тридцатиминуток за соответствующие часы по данным за трое предшествующих аналогичных суток.
+3. Показания ОИП корректируются на величину потерь электроэнергии согласно Приложения 2 к ПСИ и в соответствии с Алгоритмом расчета потерь электроэнергии №2860/19 от 28.06.2019 г. между точками поставки и измерений с использованием АИИС КУЭ ПАО «Орскнефтеоргсинтез» в сечении: ООО «Ижэнергосбыт» (ПАО «Орскнефтеоргсинтез») – АО «ЭнергосбыТ Плюс» (ОАО «Оренбургэнергосбыт»)
+4. Определение объёма потребления электрической энергии в случае неисправности основного измерительного прибора (ОИП) осуществляется следующим образом:
+- для первых двух расчётных периодов определяется исходя из показаний расчётного прибора учёта за аналогичный расчётный период предыдущего года, а при отсутствии данных за аналогичный расчётный период предыдущего года - на основании показаний расчётного прибора учёта за ближайший расчётный период, когда такие показания были предоставлены.
+- для последующих расчётных периодов объём потребления электрической энергии в соответствующей точке поставки определяется расчётным способом:
+                     W = Pmax * T, МВт*ч,
+где:
+Pmax - максимальная мощность энергопринимающих устройств, МВт;
+T - количество часов в расчётном периоде, ч.]]>
+</comment>
+<delivery-point-measuring-device-link id-delivery-point="3" id-measuring-device="1" direction="send-receive" oip-rip-so="oip" is-inverse-connection="true"/>
+<delivery-point-measuring-device-link id-delivery-point="4" id-measuring-device="2" direction="send-receive" oip-rip-so="oip" is-inverse-connection="false"/>
+<delivery-point-measuring-device-link id-delivery-point="5" id-measuring-device="3" direction="send-receive" oip-rip-so="oip" is-inverse-connection="true"/>
+<delivery-point-measuring-device-link id-delivery-point="6" id-measuring-device="4" direction="send-receive" oip-rip-so="oip" is-inverse-connection="true"/>
+<delivery-point-measuring-device-link id-delivery-point="7" id-measuring-device="5" direction="send-receive" oip-rip-so="oip" is-inverse-connection="true"/>
+<delivery-point-measuring-device-link id-delivery-point="8" id-measuring-device="6" direction="send-receive" oip-rip-so="oip" is-inverse-connection="false"/>
+<delivery-point-measuring-device-link id-delivery-point="9" id-measuring-device="7" direction="send-receive" oip-rip-so="oip" is-inverse-connection="true"/>
+<delivery-point-measuring-device-link id-delivery-point="10" id-measuring-device="8" direction="receive" oip-rip-so="oip" is-inverse-connection="false"/>
+<delivery-point-measuring-device-link id-delivery-point="11" id-measuring-device="9" direction="send" oip-rip-so="oip" is-inverse-connection="true"/>
+<delivery-point-measuring-device-link id-delivery-point="12" id-measuring-device="10" direction="send-receive" oip-rip-so="oip" is-inverse-connection="true"/>
+<delivery-point-measuring-device-link id-delivery-point="13" id-measuring-device="11" direction="send-receive" oip-rip-so="oip" is-inverse-connection="true"/>
+<delivery-point-measuring-device-link id-delivery-point="13" id-measuring-device="12" direction="send-receive" oip-rip-so="oip" is-inverse-connection="true"/>
+<delivery-point-measuring-device-link id-delivery-point="13" id-measuring-device="13" direction="send-receive" oip-rip-so="oip" is-inverse-connection="false"/>
+<delivery-point-measuring-device-link id-delivery-point="13" id-measuring-device="14" direction="send-receive" oip-rip-so="oip" is-inverse-connection="false"/>
+</psi>
+<reference-values>
+<reference-day day8="20190619" min-value-hour="04-05" max-value-hour="16-17">
+<sender-info id-sender="1" id-aiis="1">
+<measuring-channel id-measuring-channel="1">
+<value period="0400-0430" value="15" id-rsw-measuring-point="0"/>
+<value period="0430-0500" value="16" id-rsw-measuring-point="0"/>
+<value period="0900-0930" value="23" id-rsw-measuring-point="0"/>
+<value period="0930-1000" value="23" id-rsw-measuring-point="0"/>
+<value period="1600-1630" value="23" id-rsw-measuring-point="0"/>
+<value period="1630-1700" value="23" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="5">
+<value period="0400-0430" value="58" id-rsw-measuring-point="0"/>
+<value period="0430-0500" value="69" id-rsw-measuring-point="0"/>
+<value period="0900-0930" value="124" id-rsw-measuring-point="0"/>
+<value period="0930-1000" value="113" id-rsw-measuring-point="0"/>
+<value period="1600-1630" value="86" id-rsw-measuring-point="0"/>
+<value period="1630-1700" value="92" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="9">
+<value period="0400-0430" value="0" id-rsw-measuring-point="0"/>
+<value period="0430-0500" value="0" id-rsw-measuring-point="0"/>
+<value period="0900-0930" value="0" id-rsw-measuring-point="0"/>
+<value period="0930-1000" value="0" id-rsw-measuring-point="0"/>
+<value period="1600-1630" value="0" id-rsw-measuring-point="0"/>
+<value period="1630-1700" value="0" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="13">
+<value period="0400-0430" value="24" id-rsw-measuring-point="0"/>
+<value period="0430-0500" value="29" id-rsw-measuring-point="0"/>
+<value period="0900-0930" value="35" id-rsw-measuring-point="0"/>
+<value period="0930-1000" value="36" id-rsw-measuring-point="0"/>
+<value period="1600-1630" value="38" id-rsw-measuring-point="0"/>
+<value period="1630-1700" value="36" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="17">
+<value period="0400-0430" value="237" id-rsw-measuring-point="0"/>
+<value period="0430-0500" value="236" id-rsw-measuring-point="0"/>
+<value period="0900-0930" value="285" id-rsw-measuring-point="0"/>
+<value period="0930-1000" value="286" id-rsw-measuring-point="0"/>
+<value period="1600-1630" value="392" id-rsw-measuring-point="0"/>
+<value period="1630-1700" value="391" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="21">
+<value period="0400-0430" value="20" id-rsw-measuring-point="0"/>
+<value period="0430-0500" value="23" id-rsw-measuring-point="0"/>
+<value period="0900-0930" value="30" id-rsw-measuring-point="0"/>
+<value period="0930-1000" value="32" id-rsw-measuring-point="0"/>
+<value period="1600-1630" value="28" id-rsw-measuring-point="0"/>
+<value period="1630-1700" value="31" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="25">
+<value period="0400-0430" value="73" id-rsw-measuring-point="0"/>
+<value period="0430-0500" value="63" id-rsw-measuring-point="0"/>
+<value period="0900-0930" value="110" id-rsw-measuring-point="0"/>
+<value period="0930-1000" value="116" id-rsw-measuring-point="0"/>
+<value period="1600-1630" value="96" id-rsw-measuring-point="0"/>
+<value period="1630-1700" value="87" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="29">
+<value period="0400-0430" value="0" id-rsw-measuring-point="0"/>
+<value period="0430-0500" value="0" id-rsw-measuring-point="0"/>
+<value period="0900-0930" value="0" id-rsw-measuring-point="0"/>
+<value period="0930-1000" value="0" id-rsw-measuring-point="0"/>
+<value period="1600-1630" value="0" id-rsw-measuring-point="0"/>
+<value period="1630-1700" value="0" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="30">
+<value period="0400-0430" value="3" id-rsw-measuring-point="0"/>
+<value period="0430-0500" value="3" id-rsw-measuring-point="0"/>
+<value period="0900-0930" value="4" id-rsw-measuring-point="0"/>
+<value period="0930-1000" value="4" id-rsw-measuring-point="0"/>
+<value period="1600-1630" value="4" id-rsw-measuring-point="0"/>
+<value period="1630-1700" value="4" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="32">
+<value period="0400-0430" value="4" id-rsw-measuring-point="0"/>
+<value period="0430-0500" value="3" id-rsw-measuring-point="0"/>
+<value period="0900-0930" value="5" id-rsw-measuring-point="0"/>
+<value period="0930-1000" value="6" id-rsw-measuring-point="0"/>
+<value period="1600-1630" value="4" id-rsw-measuring-point="0"/>
+<value period="1630-1700" value="5" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="34">
+<value period="0400-0430" value="8" id-rsw-measuring-point="0"/>
+<value period="0430-0500" value="8" id-rsw-measuring-point="0"/>
+<value period="0900-0930" value="9" id-rsw-measuring-point="0"/>
+<value period="0930-1000" value="9" id-rsw-measuring-point="0"/>
+<value period="1600-1630" value="8" id-rsw-measuring-point="0"/>
+<value period="1630-1700" value="8" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="37">
+<value period="0400-0430" value="1795" id-rsw-measuring-point="0"/>
+<value period="0430-0500" value="1809" id-rsw-measuring-point="0"/>
+<value period="0900-0930" value="1927" id-rsw-measuring-point="0"/>
+<value period="0930-1000" value="1954" id-rsw-measuring-point="0"/>
+<value period="1600-1630" value="1947" id-rsw-measuring-point="0"/>
+<value period="1630-1700" value="1928" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="41">
+<value period="0400-0430" value="2211" id-rsw-measuring-point="0"/>
+<value period="0430-0500" value="2217" id-rsw-measuring-point="0"/>
+<value period="0900-0930" value="2211" id-rsw-measuring-point="0"/>
+<value period="0930-1000" value="2205" id-rsw-measuring-point="0"/>
+<value period="1600-1630" value="2198" id-rsw-measuring-point="0"/>
+<value period="1630-1700" value="2191" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="44">
+<value period="0400-0430" value="3142" id-rsw-measuring-point="0"/>
+<value period="0430-0500" value="3141" id-rsw-measuring-point="0"/>
+<value period="0900-0930" value="3440" id-rsw-measuring-point="0"/>
+<value period="0930-1000" value="3441" id-rsw-measuring-point="0"/>
+<value period="1600-1630" value="3573" id-rsw-measuring-point="0"/>
+<value period="1630-1700" value="3511" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="46">
+<value period="0400-0430" value="2368" id-rsw-measuring-point="0"/>
+<value period="0430-0500" value="2384" id-rsw-measuring-point="0"/>
+<value period="0900-0930" value="2578" id-rsw-measuring-point="0"/>
+<value period="0930-1000" value="2543" id-rsw-measuring-point="0"/>
+<value period="1600-1630" value="2631" id-rsw-measuring-point="0"/>
+<value period="1630-1700" value="2543" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="48">
+<value period="0400-0430" value="7163" id-rsw-measuring-point="0"/>
+<value period="0430-0500" value="7181" id-rsw-measuring-point="0"/>
+<value period="0900-0930" value="7216" id-rsw-measuring-point="0"/>
+<value period="0930-1000" value="7277" id-rsw-measuring-point="0"/>
+<value period="1600-1630" value="7339" id-rsw-measuring-point="0"/>
+<value period="1630-1700" value="7304" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="50">
+<value period="0400-0430" value="2720" id-rsw-measuring-point="0"/>
+<value period="0430-0500" value="2745" id-rsw-measuring-point="0"/>
+<value period="0900-0930" value="2754" id-rsw-measuring-point="0"/>
+<value period="0930-1000" value="2799" id-rsw-measuring-point="0"/>
+<value period="1600-1630" value="2772" id-rsw-measuring-point="0"/>
+<value period="1630-1700" value="2799" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<delivery-point id-delivery-point="3">
+<send>
+<value period="0400-0500" value="31"/>
+<value period="0900-1000" value="46"/>
+<value period="1600-1700" value="46"/>
+</send>
+</delivery-point>
+<delivery-point id-delivery-point="4">
+<send>
+<value period="0400-0500" value="127"/>
+<value period="0900-1000" value="237"/>
+<value period="1600-1700" value="178"/>
+</send>
+</delivery-point>
+<delivery-point id-delivery-point="5">
+<send>
+<value period="0400-0500" value="0"/>
+<value period="0900-1000" value="0"/>
+<value period="1600-1700" value="0"/>
+</send>
+</delivery-point>
+<delivery-point id-delivery-point="6">
+<send>
+<value period="0400-0500" value="53"/>
+<value period="0900-1000" value="71"/>
+<value period="1600-1700" value="74"/>
+</send>
+</delivery-point>
+<delivery-point id-delivery-point="7">
+<receive>
+<value period="0400-0500" value="473"/>
+<value period="0900-1000" value="571"/>
+<value period="1600-1700" value="783"/>
+</receive>
+</delivery-point>
+<delivery-point id-delivery-point="8">
+<receive>
+<value period="0400-0500" value="43"/>
+<value period="0900-1000" value="62"/>
+<value period="1600-1700" value="59"/>
+</receive>
+</delivery-point>
+<delivery-point id-delivery-point="9">
+<send>
+<value period="0400-0500" value="136"/>
+<value period="0900-1000" value="226"/>
+<value period="1600-1700" value="183"/>
+</send>
+</delivery-point>
+<delivery-point id-delivery-point="10">
+<send>
+<value period="0400-0500" value="0"/>
+<value period="0900-1000" value="0"/>
+<value period="1600-1700" value="0"/>
+</send>
+</delivery-point>
+<delivery-point id-delivery-point="11">
+<send>
+<value period="0400-0500" value="6"/>
+<value period="0900-1000" value="8"/>
+<value period="1600-1700" value="8"/>
+</send>
+</delivery-point>
+<delivery-point id-delivery-point="12">
+<send>
+<value period="0400-0500" value="7"/>
+<value period="0900-1000" value="11"/>
+<value period="1600-1700" value="9"/>
+</send>
+</delivery-point>
+<delivery-point id-delivery-point="13">
+<receive>
+<value period="0400-0500" value="28665"/>
+<value period="0900-1000" value="29677"/>
+<value period="1600-1700" value="29997"/>
+</receive>
+</delivery-point>
+<peretok>
+<value period="0400-0500" value="-28821"/>
+<value period="0900-1000" value="-29712"/>
+<value period="1600-1700" value="-30342"/>
+</peretok>
+</sender-info>
+<peretok>
+<value period="0400-0500" value="-28821"/>
+<value period="0900-1000" value="-29712"/>
+<value period="1600-1700" value="-30342"/>
+</peretok>
+</reference-day>
+<reference-day day8="20181219" min-value-hour="14-15" max-value-hour="22-23">
+<sender-info id-sender="1" id-aiis="1">
+<measuring-channel id-measuring-channel="1">
+<value period="1400-1430" value="38" id-rsw-measuring-point="0"/>
+<value period="1430-1500" value="41" id-rsw-measuring-point="0"/>
+<value period="1700-1730" value="45" id-rsw-measuring-point="0"/>
+<value period="1730-1800" value="45" id-rsw-measuring-point="0"/>
+<value period="2200-2230" value="38" id-rsw-measuring-point="0"/>
+<value period="2230-2300" value="33" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="5">
+<value period="1400-1430" value="93" id-rsw-measuring-point="0"/>
+<value period="1430-1500" value="105" id-rsw-measuring-point="0"/>
+<value period="1700-1730" value="113" id-rsw-measuring-point="0"/>
+<value period="1730-1800" value="116" id-rsw-measuring-point="0"/>
+<value period="2200-2230" value="80" id-rsw-measuring-point="0"/>
+<value period="2230-2300" value="78" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="9">
+<value period="1400-1430" value="0" id-rsw-measuring-point="0"/>
+<value period="1430-1500" value="0" id-rsw-measuring-point="0"/>
+<value period="1700-1730" value="0" id-rsw-measuring-point="0"/>
+<value period="1730-1800" value="0" id-rsw-measuring-point="0"/>
+<value period="2200-2230" value="0" id-rsw-measuring-point="0"/>
+<value period="2230-2300" value="0" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="13">
+<value period="1400-1430" value="36" id-rsw-measuring-point="0"/>
+<value period="1430-1500" value="42" id-rsw-measuring-point="0"/>
+<value period="1700-1730" value="55" id-rsw-measuring-point="0"/>
+<value period="1730-1800" value="57" id-rsw-measuring-point="0"/>
+<value period="2200-2230" value="35" id-rsw-measuring-point="0"/>
+<value period="2230-2300" value="34" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="17">
+<value period="1400-1430" value="258" id-rsw-measuring-point="0"/>
+<value period="1430-1500" value="258" id-rsw-measuring-point="0"/>
+<value period="1700-1730" value="265" id-rsw-measuring-point="0"/>
+<value period="1730-1800" value="263" id-rsw-measuring-point="0"/>
+<value period="2200-2230" value="257" id-rsw-measuring-point="0"/>
+<value period="2230-2300" value="256" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="21">
+<value period="1400-1430" value="67" id-rsw-measuring-point="0"/>
+<value period="1430-1500" value="67" id-rsw-measuring-point="0"/>
+<value period="1700-1730" value="72" id-rsw-measuring-point="0"/>
+<value period="1730-1800" value="72" id-rsw-measuring-point="0"/>
+<value period="2200-2230" value="62" id-rsw-measuring-point="0"/>
+<value period="2230-2300" value="58" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="25">
+<value period="1400-1430" value="120" id-rsw-measuring-point="0"/>
+<value period="1430-1500" value="111" id-rsw-measuring-point="0"/>
+<value period="1700-1730" value="80" id-rsw-measuring-point="0"/>
+<value period="1730-1800" value="79" id-rsw-measuring-point="0"/>
+<value period="2200-2230" value="67" id-rsw-measuring-point="0"/>
+<value period="2230-2300" value="67" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="29">
+<value period="1400-1430" value="0" id-rsw-measuring-point="0"/>
+<value period="1430-1500" value="0" id-rsw-measuring-point="0"/>
+<value period="1700-1730" value="0" id-rsw-measuring-point="0"/>
+<value period="1730-1800" value="0" id-rsw-measuring-point="0"/>
+<value period="2200-2230" value="0" id-rsw-measuring-point="0"/>
+<value period="2230-2300" value="0" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="30">
+<value period="1400-1430" value="12" id-rsw-measuring-point="0"/>
+<value period="1430-1500" value="12" id-rsw-measuring-point="0"/>
+<value period="1700-1730" value="13" id-rsw-measuring-point="0"/>
+<value period="1730-1800" value="13" id-rsw-measuring-point="0"/>
+<value period="2200-2230" value="14" id-rsw-measuring-point="0"/>
+<value period="2230-2300" value="14" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="32">
+<value period="1400-1430" value="33" id-rsw-measuring-point="0"/>
+<value period="1430-1500" value="32" id-rsw-measuring-point="0"/>
+<value period="1700-1730" value="34" id-rsw-measuring-point="0"/>
+<value period="1730-1800" value="35" id-rsw-measuring-point="0"/>
+<value period="2200-2230" value="36" id-rsw-measuring-point="0"/>
+<value period="2230-2300" value="36" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="34">
+<value period="1400-1430" value="21" id-rsw-measuring-point="0"/>
+<value period="1430-1500" value="20" id-rsw-measuring-point="0"/>
+<value period="1700-1730" value="22" id-rsw-measuring-point="0"/>
+<value period="1730-1800" value="23" id-rsw-measuring-point="0"/>
+<value period="2200-2230" value="23" id-rsw-measuring-point="0"/>
+<value period="2230-2300" value="23" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="37">
+<value period="1400-1430" value="1749" id-rsw-measuring-point="0"/>
+<value period="1430-1500" value="1736" id-rsw-measuring-point="0"/>
+<value period="1700-1730" value="1755" id-rsw-measuring-point="0"/>
+<value period="1730-1800" value="1736" id-rsw-measuring-point="0"/>
+<value period="2200-2230" value="1716" id-rsw-measuring-point="0"/>
+<value period="2230-2300" value="1729" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="41">
+<value period="1400-1430" value="2469" id-rsw-measuring-point="0"/>
+<value period="1430-1500" value="2468" id-rsw-measuring-point="0"/>
+<value period="1700-1730" value="2488" id-rsw-measuring-point="0"/>
+<value period="1730-1800" value="2502" id-rsw-measuring-point="0"/>
+<value period="2200-2230" value="2508" id-rsw-measuring-point="0"/>
+<value period="2230-2300" value="2501" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="44">
+<value period="1400-1430" value="2843" id-rsw-measuring-point="0"/>
+<value period="1430-1500" value="2825" id-rsw-measuring-point="0"/>
+<value period="1700-1730" value="2965" id-rsw-measuring-point="0"/>
+<value period="1730-1800" value="2948" id-rsw-measuring-point="0"/>
+<value period="2200-2230" value="3010" id-rsw-measuring-point="0"/>
+<value period="2230-2300" value="2992" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="46">
+<value period="1400-1430" value="1575" id-rsw-measuring-point="0"/>
+<value period="1430-1500" value="1601" id-rsw-measuring-point="0"/>
+<value period="1700-1730" value="1637" id-rsw-measuring-point="0"/>
+<value period="1730-1800" value="1628" id-rsw-measuring-point="0"/>
+<value period="2200-2230" value="1672" id-rsw-measuring-point="0"/>
+<value period="2230-2300" value="1708" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="48">
+<value period="1400-1430" value="7982" id-rsw-measuring-point="0"/>
+<value period="1430-1500" value="7981" id-rsw-measuring-point="0"/>
+<value period="1700-1730" value="8210" id-rsw-measuring-point="0"/>
+<value period="1730-1800" value="8184" id-rsw-measuring-point="0"/>
+<value period="2200-2230" value="8263" id-rsw-measuring-point="0"/>
+<value period="2230-2300" value="8299" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<measuring-channel id-measuring-channel="50">
+<value period="1400-1430" value="3115" id-rsw-measuring-point="0"/>
+<value period="1430-1500" value="3159" id-rsw-measuring-point="0"/>
+<value period="1700-1730" value="3089" id-rsw-measuring-point="0"/>
+<value period="1730-1800" value="3071" id-rsw-measuring-point="0"/>
+<value period="2200-2230" value="3115" id-rsw-measuring-point="0"/>
+<value period="2230-2300" value="3212" id-rsw-measuring-point="0"/>
+</measuring-channel>
+<delivery-point id-delivery-point="3">
+<send>
+<value period="1400-1500" value="79"/>
+<value period="1700-1800" value="90"/>
+<value period="2200-2300" value="71"/>
+</send>
+</delivery-point>
+<delivery-point id-delivery-point="4">
+<send>
+<value period="1400-1500" value="198"/>
+<value period="1700-1800" value="229"/>
+<value period="2200-2300" value="158"/>
+</send>
+</delivery-point>
+<delivery-point id-delivery-point="5">
+<send>
+<value period="1400-1500" value="0"/>
+<value period="1700-1800" value="0"/>
+<value period="2200-2300" value="0"/>
+</send>
+</delivery-point>
+<delivery-point id-delivery-point="6">
+<send>
+<value period="1400-1500" value="78"/>
+<value period="1700-1800" value="112"/>
+<value period="2200-2300" value="69"/>
+</send>
+</delivery-point>
+<delivery-point id-delivery-point="7">
+<receive>
+<value period="1400-1500" value="516"/>
+<value period="1700-1800" value="528"/>
+<value period="2200-2300" value="513"/>
+</receive>
+</delivery-point>
+<delivery-point id-delivery-point="8">
+<receive>
+<value period="1400-1500" value="134"/>
+<value period="1700-1800" value="144"/>
+<value period="2200-2300" value="120"/>
+</receive>
+</delivery-point>
+<delivery-point id-delivery-point="9">
+<send>
+<value period="1400-1500" value="231"/>
+<value period="1700-1800" value="159"/>
+<value period="2200-2300" value="134"/>
+</send>
+</delivery-point>
+<delivery-point id-delivery-point="10">
+<send>
+<value period="1400-1500" value="0"/>
+<value period="1700-1800" value="0"/>
+<value period="2200-2300" value="0"/>
+</send>
+</delivery-point>
+<delivery-point id-delivery-point="11">
+<send>
+<value period="1400-1500" value="24"/>
+<value period="1700-1800" value="26"/>
+<value period="2200-2300" value="28"/>
+</send>
+</delivery-point>
+<delivery-point id-delivery-point="12">
+<send>
+<value period="1400-1500" value="65"/>
+<value period="1700-1800" value="69"/>
+<value period="2200-2300" value="72"/>
+</send>
+</delivery-point>
+<delivery-point id-delivery-point="13">
+<receive>
+<value period="1400-1500" value="30059"/>
+<value period="1700-1800" value="30794"/>
+<value period="2200-2300" value="31024"/>
+</receive>
+</delivery-point>
+<peretok>
+<value period="1400-1500" value="-30035"/>
+<value period="1700-1800" value="-30782"/>
+<value period="2200-2300" value="-31126"/>
+</peretok>
+</sender-info>
+<peretok>
+<value period="1400-1500" value="-30035"/>
+<value period="1700-1800" value="-30782"/>
+<value period="2200-2300" value="-31126"/>
+</peretok>
+</reference-day>
+</reference-values>
+</body>
+</message>

@@ -1,0 +1,32 @@
+{% extends 'main/base.html' %}
+{% block content %}
+<style>
+    .section {
+        border: 1px solid #ccc;
+        padding: 10px;
+        margin-bottom: 10px;
+        color: black;
+    }
+    .section code {
+        font-size: 14px;
+        display: block;
+    }
+    .section p {
+        margin: 0;
+    }
+    .section a {
+        margin-right: 10px;
+    }
+</style>
+
+<h1>Точки учёта</h1>
+
+{% for n in tu %}
+<div class="section">
+    <p>{{ n.name }}</p>
+    <a href="#">Изменить</a>
+</div>
+{% endfor %}
+
+<p><a href="{% url 'tu_create' %}">Добавить Точку учета</a></p>
+{% endblock %}

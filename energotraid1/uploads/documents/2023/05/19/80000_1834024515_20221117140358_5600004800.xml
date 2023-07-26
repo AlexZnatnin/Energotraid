@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<message class="80000" version="4" generationtime="20221117140358GMT+03">
+  <aiis ats-code="5600004800" name="АИИС ООО &quot;Ижэнергосбыт&quot; (ПАО &quot;Орскнефтеоргсинтез&quot;)">
+    <area ats-code="5600004801" group-type="1" name="ООО &quot;Ижэнергосбыт&quot; (ПАО &quot;Орскнефтеоргсинтез&quot;) &lt;&gt; ПАО &quot;Т Плюс&quot; (Орская ТЭЦ-1) {PMAREM11-PORENBE6} 16.03.2020" time-zone="1">
+      <serviced-points-list>
+        <delivery-point-measuring-point-link delivery-point-code="563070002313107" measuring-point-code="562130001113101"/>
+        <delivery-point-measuring-point-link delivery-point-code="563070002313105" measuring-point-code="562130003214101"/>
+        <delivery-point-measuring-point-link delivery-point-code="563070002313108" measuring-point-code="562130002113101"/>
+        <delivery-point-measuring-point-link delivery-point-code="563070002313203" measuring-point-code="562130003113201"/>
+        <delivery-point-measuring-point-link delivery-point-code="563070002313106" measuring-point-code="562130003113101"/>
+        <delivery-point-measuring-point-link delivery-point-code="563070002313204" measuring-point-code="562130003214201"/>
+        <delivery-point-measuring-point-link delivery-point-code="563070002313205" measuring-point-code="562130001113201"/>
+      </serviced-points-list>
+      <measuring-channels-list>
+        <measuring-channel measuring-channel-code="562130003113201/01"/>
+        <measuring-channel measuring-channel-code="562130003214201/01"/>
+        <measuring-channel measuring-channel-code="562130003214101/01"/>
+        <measuring-channel measuring-channel-code="562130001113201/01"/>
+        <measuring-channel measuring-channel-code="562130003113101/01"/>
+        <measuring-channel measuring-channel-code="562130001113101/01"/>
+        <measuring-channel measuring-channel-code="562130002113101/01"/>
+        <measuring-channel measuring-channel-code="562130003113101/02"/>
+        <measuring-channel measuring-channel-code="562130001113101/02"/>
+        <measuring-channel measuring-channel-code="562130003214201/02"/>
+        <measuring-channel measuring-channel-code="562130003214101/02"/>
+        <measuring-channel measuring-channel-code="562130001113201/02"/>
+        <measuring-channel measuring-channel-code="562130002113101/02"/>
+        <measuring-channel measuring-channel-code="562130003113201/02"/>
+        <measuring-channel measuring-channel-code="562130002113101/03"/>
+        <measuring-channel measuring-channel-code="562130001113101/03"/>
+        <measuring-channel measuring-channel-code="562130003214101/03"/>
+        <measuring-channel measuring-channel-code="562130003113201/03"/>
+        <measuring-channel measuring-channel-code="562130003113101/03"/>
+        <measuring-channel measuring-channel-code="562130003214201/03"/>
+        <measuring-channel measuring-channel-code="562130001113201/03"/>
+        <measuring-channel measuring-channel-code="562130003113201/04"/>
+        <measuring-channel measuring-channel-code="562130003113101/04"/>
+        <measuring-channel measuring-channel-code="562130001113201/04"/>
+        <measuring-channel measuring-channel-code="562130003214101/04"/>
+        <measuring-channel measuring-channel-code="562130003214201/04"/>
+        <measuring-channel measuring-channel-code="562130001113101/04"/>
+        <measuring-channel measuring-channel-code="562130002113101/04"/>
+      </measuring-channels-list>
+      <delivery-point-channels-list/>
+      <measuring-objects-list/>
+    </area>
+    <area ats-code="5600004802" group-type="1" name="ООО &quot;Ижэнергосбыт&quot; (ПАО &quot;Орскнефтеоргсинтез&quot;) &lt;&gt; АО &quot;ЭнергосбыТ Плюс&quot; (ОАО &quot;Оренбургэнергосбыт&quot;) {PMAREM11-PORENBEN} 31.07.2019" time-zone="1">
+      <serviced-points-list>
+        <delivery-point-measuring-point-link delivery-point-code="562130004113201" measuring-point-code="562130004113201"/>
+        <delivery-point-measuring-point-link delivery-point-code="562070033213101" measuring-point-code="562070033213101"/>
+        <delivery-point-measuring-point-link delivery-point-code="562070031107303" measuring-point-code="562070107107101"/>
+        <delivery-point-measuring-point-link delivery-point-code="562070031107303" measuring-point-code="562070031107201"/>
+        <delivery-point-measuring-point-link delivery-point-code="562070031107303" measuring-point-code="562070031107101"/>
+        <delivery-point-measuring-point-link delivery-point-code="562140001318201" measuring-point-code="562140001318201"/>
+        <delivery-point-measuring-point-link delivery-point-code="562130036113104" measuring-point-code="562130036113104"/>
+        <delivery-point-measuring-point-link delivery-point-code="565140001114102" measuring-point-code="562070107314101"/>
+        <delivery-point-measuring-point-link delivery-point-code="565140001114101" measuring-point-code="565140001114101"/>
+        <delivery-point-measuring-point-link delivery-point-code="562070031107303" measuring-point-code="562070107107201"/>
+        <delivery-point-measuring-point-link delivery-point-code="562130003214202" measuring-point-code="562130003214202"/>
+        <delivery-point-measuring-point-link delivery-point-code="562140001318101" measuring-point-code="562140001318101"/>
+      </serviced-points-list>
+      <measuring-channels-list>
+        <measuring-channel measuring-channel-code="562130004113201/01"/>
+        <measuring-channel measuring-channel-code="562070031107101/01"/>
+        <measuring-channel measuring-channel-code="562070107107201/01"/>
+        <measuring-channel measuring-channel-code="562070107107101/01"/>
+        <measuring-channel measuring-channel-code="562070033213101/01"/>
+        <measuring-channel measuring-channel-code="562130003214202/01"/>
+        <measuring-channel measuring-channel-code="565140001114101/01"/>
+        <measuring-channel measuring-channel-code="562070107314101/01"/>
+        <measuring-channel measuring-channel-code="562130036113104/01"/>
+        <measuring-channel measuring-channel-code="562140001318101/01"/>
+        <measuring-channel measuring-channel-code="562070031107201/01"/>
+        <measuring-channel measuring-channel-code="562140001318201/01"/>
+        <measuring-channel measuring-channel-code="562070033213101/02"/>
+        <measuring-channel measuring-channel-code="562070107107201/02"/>
+        <measuring-channel measuring-channel-code="562130003214202/02"/>
+        <measuring-channel measuring-channel-code="565140001114101/02"/>
+        <measuring-channel measuring-channel-code="562070031107101/02"/>
+        <measuring-channel measuring-channel-code="562070031107201/02"/>
+        <measuring-channel measuring-channel-code="562070107107101/02"/>
+        <measuring-channel measuring-channel-code="562140001318201/02"/>
+        <measuring-channel measuring-channel-code="562130004113201/02"/>
+        <measuring-channel measuring-channel-code="562140001318101/02"/>
+        <measuring-channel measuring-channel-code="562130036113104/02"/>
+        <measuring-channel measuring-channel-code="562070107314101/02"/>
+        <measuring-channel measuring-channel-code="562130036113104/03"/>
+        <measuring-channel measuring-channel-code="562140001318201/03"/>
+        <measuring-channel measuring-channel-code="562070107107201/03"/>
+        <measuring-channel measuring-channel-code="565140001114101/03"/>
+        <measuring-channel measuring-channel-code="562070031107201/03"/>
+        <measuring-channel measuring-channel-code="562070107107101/03"/>
+        <measuring-channel measuring-channel-code="562070033213101/03"/>
+        <measuring-channel measuring-channel-code="562130004113201/03"/>
+        <measuring-channel measuring-channel-code="562070031107101/03"/>
+        <measuring-channel measuring-channel-code="562070107314101/03"/>
+        <measuring-channel measuring-channel-code="562130003214202/03"/>
+        <measuring-channel measuring-channel-code="562140001318101/03"/>
+        <measuring-channel measuring-channel-code="562070107107201/04"/>
+        <measuring-channel measuring-channel-code="565140001114101/04"/>
+        <measuring-channel measuring-channel-code="562130004113201/04"/>
+        <measuring-channel measuring-channel-code="562130003214202/04"/>
+        <measuring-channel measuring-channel-code="562070031107201/04"/>
+        <measuring-channel measuring-channel-code="562130036113104/04"/>
+        <measuring-channel measuring-channel-code="562070031107101/04"/>
+        <measuring-channel measuring-channel-code="562070107314101/04"/>
+        <measuring-channel measuring-channel-code="562140001318101/04"/>
+        <measuring-channel measuring-channel-code="562070033213101/04"/>
+        <measuring-channel measuring-channel-code="562140001318201/04"/>
+        <measuring-channel measuring-channel-code="562070107107101/04"/>
+      </measuring-channels-list>
+      <delivery-point-channels-list/>
+      <measuring-objects-list/>
+    </area>
+    <area ats-code="5600004803" group-type="2" name="ООО &quot;Ижэнергосбыт&quot; (ПАО &quot;Орскнефтеоргсинтез&quot;) &lt;&gt; АО &quot;ЭнергосбыТ Плюс&quot; (ОАО &quot;Оренбургэнергосбыт&quot;) Группа МП {PMAREM11-PORENBEN} 31.07.2019" time-zone="1">
+      <serviced-points-list>
+        <delivery-point-measuring-point-link delivery-point-code="566180059118101" measuring-point-code="566180059118101"/>
+        <delivery-point-measuring-point-link delivery-point-code="562130114218101" measuring-point-code="562130114218101"/>
+      </serviced-points-list>
+      <measuring-channels-list>
+        <measuring-channel measuring-channel-code="566180059118101/01"/>
+        <measuring-channel measuring-channel-code="562130114218101/01"/>
+        <measuring-channel measuring-channel-code="562130114218101/03"/>
+      </measuring-channels-list>
+      <delivery-point-channels-list/>
+      <measuring-objects-list/>
+    </area>
+  </aiis>
+  <links>
+    <ov-measuring-point-links/>
+    <group-delivery-point-composition>
+      <group-delivery-point group-delivery-point-code="562070031107303" simple-delivery-point-code="562070031107201"/>
+      <group-delivery-point group-delivery-point-code="562070031107303" simple-delivery-point-code="564070163107102"/>
+    </group-delivery-point-composition>
+    <power-center-power-object-links>
+      <power-center-power-object-link power-center-code="563070002" power-object-code="562130001"/>
+      <power-center-power-object-link power-center-code="563070002" power-object-code="562130002"/>
+      <power-center-power-object-link power-center-code="563070002" power-object-code="562130003"/>
+      <power-center-power-object-link power-center-code="562070047" power-object-code="562130004"/>
+      <power-center-power-object-link power-center-code="562070033" power-object-code="562130004"/>
+      <power-center-power-object-link power-center-code="562070107" power-object-code="562140001"/>
+      <power-center-power-object-link power-center-code="562070107" power-object-code="562130114"/>
+      <power-center-power-object-link power-center-code="563070002" power-object-code="566180059"/>
+      <power-center-power-object-link power-center-code="562070047" power-object-code="562130036"/>
+      <power-center-power-object-link power-center-code="562070107" power-object-code="565140001"/>
+    </power-center-power-object-links>
+  </links>
+  <dictionaries>
+    <organization inn="1834024515" name="ООО &quot;Ижэнергосбыт&quot;" trader-code="BELKAMKO"/>
+    <power-objects>
+      <power-object ats-code="562130001" is-power-center="false" name="ЦРП-1А 10 кВ" type="2">
+        <voltage-levels>
+          <voltage-level voltage="10000"/>
+        </voltage-levels>
+      </power-object>
+      <power-object ats-code="562130002" is-power-center="false" name="ПС 10 кВ ЦРП-2 от Орской ТЭЦ" type="2">
+        <voltage-levels>
+          <voltage-level voltage="10000"/>
+        </voltage-levels>
+      </power-object>
+      <power-object ats-code="562130003" is-power-center="false" name="ЦРП-3 10 кВ" type="2">
+        <voltage-levels>
+          <voltage-level voltage="10000"/>
+          <voltage-level voltage="6000"/>
+        </voltage-levels>
+      </power-object>
+      <power-object ats-code="562070031" is-power-center="true" name="ПС 110 кВ НПЗ" type="2">
+        <voltage-levels>
+          <voltage-level voltage="110000"/>
+          <voltage-level voltage="6000"/>
+        </voltage-levels>
+      </power-object>
+      <power-object ats-code="562130004" is-power-center="false" name="ТП-16 10 кВ" type="2">
+        <voltage-levels>
+          <voltage-level voltage="10000"/>
+        </voltage-levels>
+      </power-object>
+      <power-object ats-code="562140001" is-power-center="false" name="ТП-50 6 кВ" type="2">
+        <voltage-levels>
+          <voltage-level voltage="6000"/>
+          <voltage-level voltage="400"/>
+        </voltage-levels>
+      </power-object>
+      <power-object ats-code="563070002" is-power-center="true" name="Орская ТЭЦ-1" type="3">
+        <voltage-levels>
+          <voltage-level voltage="110000"/>
+          <voltage-level voltage="35000"/>
+          <voltage-level voltage="10000"/>
+        </voltage-levels>
+      </power-object>
+      <power-object ats-code="562070033" is-power-center="true" name="ПС 110 кВ Мехзавод" type="2">
+        <voltage-levels>
+          <voltage-level voltage="110000"/>
+          <voltage-level voltage="10000"/>
+        </voltage-levels>
+      </power-object>
+      <power-object ats-code="562070047" is-power-center="true" name="ПС 110 кВ ЮУМЗ" type="2">
+        <voltage-levels>
+          <voltage-level voltage="110000"/>
+          <voltage-level voltage="10000"/>
+        </voltage-levels>
+      </power-object>
+      <power-object ats-code="562130036" is-power-center="false" name="КП-2 10 кВ" type="2">
+        <voltage-levels>
+          <voltage-level voltage="10000"/>
+        </voltage-levels>
+      </power-object>
+      <power-object ats-code="565140001" is-power-center="false" name="КВЛ 6 кВ ф.5 с ТП-10 на ТП-37, ТП-58 с отпайкой на ЛМВ-1" type="5">
+        <voltage-levels>
+          <voltage-level voltage="6000"/>
+        </voltage-levels>
+      </power-object>
+      <power-object ats-code="564070163" is-power-center="false" name="ВЛ 110 кВ Сакмарская СЭС - НПЗ-2" type="4">
+        <voltage-levels>
+          <voltage-level voltage="110000"/>
+        </voltage-levels>
+      </power-object>
+      <power-object ats-code="562070107" is-power-center="true" name="ПС 110 кВ НПЗ-2" type="2">
+        <voltage-levels>
+          <voltage-level voltage="110000"/>
+          <voltage-level voltage="6000"/>
+        </voltage-levels>
+      </power-object>
+      <power-object ats-code="562130114" is-power-center="false" name="ТП-48 10 кВ" type="2">
+        <voltage-levels>
+          <voltage-level voltage="10000"/>
+          <voltage-level voltage="400"/>
+        </voltage-levels>
+      </power-object>
+      <power-object ats-code="566180059" is-power-center="false" name="РП-0,4 кВ насосной второго подъема от КТПН-59" type="6">
+        <voltage-levels>
+          <voltage-level voltage="400"/>
+        </voltage-levels>
+      </power-object>
+    </power-objects>
+    <delivery-points>
+      <delivery-point ats-code="562070031107201" is-group-delivery-point="false" point-voltage="110000">
+        <name connection-name="ВЛ-110 кВ Орская-НПЗ" location-description="ОРУ-110 кВ" power-object-name="ПС 110 кВ НПЗ"/>
+      </delivery-point>
+      <delivery-point ats-code="562070033213101" is-group-delivery-point="false" point-voltage="10000">
+        <name connection-name="КЛ-10 кВ ф.3 Водозабор-2" location-description="ЗРУ-10 кВ, 1 с.ш. 10 кВ, яч.3" power-object-name="ПС 110 кВ Мехзавод"/>
+      </delivery-point>
+      <delivery-point ats-code="562130004113201" is-group-delivery-point="false" point-voltage="10000">
+        <name connection-name="КЛ-10 кВ ф.2" location-description="ЗРУ-10 кВ, 2 с.ш. 10 кВ, яч.2" power-object-name="ТП-16 10 кВ"/>
+      </delivery-point>
+      <delivery-point ats-code="562140001318101" is-group-delivery-point="false" point-voltage="400">
+        <name connection-name="ВЛИ-0,4 кВ" location-description="РУ-0,4 кВ, 1 с.ш. 0,4 кВ, яч.4" power-object-name="ТП-50 6 кВ"/>
+      </delivery-point>
+      <delivery-point ats-code="562140001318201" is-group-delivery-point="false" point-voltage="400">
+        <name connection-name="КЛ-0,4 кВ" location-description="РУ-0,4 кВ, 2 с.ш. 0,4 кВ, яч.1" power-object-name="ТП-50 6 кВ"/>
+      </delivery-point>
+      <delivery-point ats-code="563070002313107" is-group-delivery-point="false" point-voltage="10000">
+        <name connection-name="КЛ-10 кВ Крекинг-1" location-description="ГРУ-10 кВ, яч.33" power-object-name="Орская ТЭЦ-1"/>
+      </delivery-point>
+      <delivery-point ats-code="563070002313205" is-group-delivery-point="false" point-voltage="10000">
+        <name connection-name="КЛ-10 кВ Крекинг-2" location-description="ГРУ-10 кВ, яч.34" power-object-name="Орская ТЭЦ-1"/>
+      </delivery-point>
+      <delivery-point ats-code="563070002313108" is-group-delivery-point="false" point-voltage="10000">
+        <name connection-name="КЛ-10 кВ Крекинг-3" location-description="ГРУ-10 кВ, яч.31" power-object-name="Орская ТЭЦ-1"/>
+      </delivery-point>
+      <delivery-point ats-code="563070002313106" is-group-delivery-point="false" point-voltage="10000">
+        <name connection-name="КЛ-10 кВ Крекинг-7" location-description="ГРУ-10 кВ, яч.10" power-object-name="Орская ТЭЦ-1"/>
+      </delivery-point>
+      <delivery-point ats-code="563070002313203" is-group-delivery-point="false" point-voltage="10000">
+        <name connection-name="КЛ-10 кВ Крекинг-8" location-description="ГРУ-10 кВ, яч.48" power-object-name="Орская ТЭЦ-1"/>
+      </delivery-point>
+      <delivery-point ats-code="563070002313105" is-group-delivery-point="false" point-voltage="10000">
+        <name connection-name="КЛ-10 кВ Крекинг-5" location-description="ГРУ-10 кВ, яч.29" power-object-name="Орская ТЭЦ-1"/>
+      </delivery-point>
+      <delivery-point ats-code="563070002313204" is-group-delivery-point="false" point-voltage="10000">
+        <name connection-name="КЛ-10 кВ Крекинг-6" location-description="ГРУ-10 кВ, яч.38" power-object-name="Орская ТЭЦ-1"/>
+      </delivery-point>
+      <delivery-point ats-code="562130036113104" is-group-delivery-point="false" point-voltage="10000">
+        <name connection-name="КЛ-10 кВ ф.30 Водозабор-1" location-description="ЗРУ-10 кВ, 1 с.ш. 10 кВ, яч.30" power-object-name="КП-2 10 кВ"/>
+      </delivery-point>
+      <delivery-point ats-code="565140001114101" is-group-delivery-point="false" point-voltage="6000">
+        <name connection-name="отпайка в сторону ЛМВ-1" location-description="Предпоследняя опора" power-object-name="КВЛ-6 кВ ф.5 ТП-10 на ТП-37, ТП-58 с отпайками"/>
+      </delivery-point>
+      <delivery-point ats-code="562130003214202" is-group-delivery-point="false" point-voltage="6000">
+        <name connection-name="КЛ-6 кВ ф.17" location-description="РУ-6 кВ, 2 с.ш. 6 кВ, яч.17" power-object-name="ЦРП-3 10 кВ"/>
+      </delivery-point>
+      <delivery-point ats-code="562130114218101" is-group-delivery-point="false" point-voltage="400">
+        <name connection-name="КЛ-0,4 кВ" location-description="РУ-0,4 кВ, 1 с.ш. 0,4 кВ, Панель №11" power-object-name="ТП-48 10 кВ"/>
+      </delivery-point>
+      <delivery-point ats-code="566180059118101" is-group-delivery-point="false" point-voltage="400">
+        <name connection-name="КЛ-0,4 кВ в сторону ВРУ-0,4 кВ нежилого здания по ул. Вяземская,14" power-object-name="РП-0,4 кВ насосной второго подъема"/>
+      </delivery-point>
+      <delivery-point ats-code="562070031107303" composite-name="Гр.ТП ПС 110 кВ НПЗ, ОРУ-110 кВ, ВЛ-110 кВ Орская-НПЗ; ВЛ-110 кВ Сакмарская СЭС-НПЗ-2, Опора №45 (2)" is-group-delivery-point="true"/>
+      <delivery-point ats-code="564070163107102" is-group-delivery-point="false" point-voltage="110000">
+        <name location-description="Опора №45" power-object-name="ВЛ-110 кВ Сакмарская СЭС - НПЗ-2"/>
+      </delivery-point>
+      <delivery-point ats-code="565140001114102" is-group-delivery-point="false" point-voltage="6000">
+        <name location-description="соединительная кабельная муфта" power-object-name="КВЛ-6 кВ ф.5 ПС 110 кВ НПЗ-2"/>
+      </delivery-point>
+    </delivery-points>
+    <measuring-points>
+      <measuring-point ats-code="562130001113101" measuring-point-type="general" point-voltage="10000">
+        <name location-description="РУ-10 кВ, 1 с.ш. 10 кВ, яч.31" power-object-name="ЦРП-1А 10 кВ"/>
+        <measuring-device ats-code="1" device-modification-code="559A7B5B54A60471E0530A01490A6E4F">
+          <measuring-channel ats-code="01" period="30"/>
+          <measuring-channel ats-code="02" period="30"/>
+          <measuring-channel ats-code="03" period="30"/>
+          <measuring-channel ats-code="04" period="30"/>
+        </measuring-device>
+      </measuring-point>
+      <measuring-point ats-code="562130003214101" measuring-point-type="general" point-voltage="6000">
+        <name location-description="РУ-6 кВ, 1 с.ш. 6 кВ, яч.8" power-object-name="ЦРП-3 10 кВ"/>
+        <measuring-device ats-code="1" device-modification-code="559A7B5B54A60471E0530A01490A6E4F">
+          <measuring-channel ats-code="01" period="30"/>
+          <measuring-channel ats-code="02" period="30"/>
+          <measuring-channel ats-code="03" period="30"/>
+          <measuring-channel ats-code="04" period="30"/>
+        </measuring-device>
+      </measuring-point>
+      <measuring-point ats-code="562130004113201" measuring-point-type="general" point-voltage="10000">
+        <name connection-name="КЛ-10 кВ ф.2" location-description="ЗРУ-10 кВ, 2 с.ш. 10 кВ, яч.2" power-object-name="ТП-16 10 кВ"/>
+        <measuring-device ats-code="1" device-modification-code="559A7B5B54A60471E0530A01490A6E4F">
+          <measuring-channel ats-code="01" period="30"/>
+          <measuring-channel ats-code="02" period="30"/>
+          <measuring-channel ats-code="03" period="30"/>
+          <measuring-channel ats-code="04" period="30"/>
+        </measuring-device>
+      </measuring-point>
+      <measuring-point ats-code="562070033213101" measuring-point-type="general" point-voltage="10000">
+        <name connection-name="КЛ-10 кВ ф.3 Водозабор-2" location-description="ЗРУ-10 кВ, 1 с.ш. 10 кВ, яч.3" power-object-name="ПС 110 кВ Мехзавод"/>
+        <measuring-device ats-code="1" device-modification-code="559A7B5B54A60471E0530A01490A6E4F">
+          <measuring-channel ats-code="01" period="30"/>
+          <measuring-channel ats-code="02" period="30"/>
+          <measuring-channel ats-code="03" period="30"/>
+          <measuring-channel ats-code="04" period="30"/>
+        </measuring-device>
+      </measuring-point>
+      <measuring-point ats-code="566180059118101" measuring-point-type="general" point-voltage="400">
+        <name connection-name="КЛ-0,4 кВ в сторону ВРУ-0,4 кВ нежилого здания по ул. Вяземская,14" power-object-name="РП-0,4 кВ насосной второго подъема"/>
+        <measuring-device ats-code="1" device-modification-code="559A7B5B56610471E0530A01490A6E4F">
+          <measuring-channel ats-code="01" period="30"/>
+        </measuring-device>
+      </measuring-point>
+      <measuring-point ats-code="562130002113101" measuring-point-type="general" point-voltage="10000">
+        <name connection-name="РУ-10 кВ, 1 с.ш. 10 кВ, яч.13" power-object-name="ЦРП-2 10 кВ"/>
+        <measuring-device ats-code="1" device-modification-code="559A7B5B54A60471E0530A01490A6E4F">
+          <measuring-channel ats-code="01" period="30"/>
+          <measuring-channel ats-code="02" period="30"/>
+          <measuring-channel ats-code="03" period="30"/>
+          <measuring-channel ats-code="04" period="30"/>
+        </measuring-device>
+      </measuring-point>
+      <measuring-point ats-code="562070107107101" measuring-point-type="general" point-voltage="110000">
+        <name connection-name="ввод 110 кВ Т1" location-description="ОРУ-110 кВ" power-object-name="ПС 110 кВ НПЗ-2"/>
+        <measuring-device ats-code="1" device-modification-code="559A7B5B54A60471E0530A01490A6E4F">
+          <measuring-channel ats-code="01" period="30"/>
+          <measuring-channel ats-code="02" period="30"/>
+          <measuring-channel ats-code="03" period="30"/>
+          <measuring-channel ats-code="04" period="30"/>
+        </measuring-device>
+      </measuring-point>
+      <measuring-point ats-code="562070031107201" measuring-point-type="general" point-voltage="110000">
+        <name connection-name="ввод 110 кВ Т1" location-description="ОРУ-110 кВ" power-object-name="ПС 110 кВ НПЗ"/>
+        <measuring-device ats-code="1" device-modification-code="559A7B5B54A60471E0530A01490A6E4F">
+          <measuring-channel ats-code="01" period="30"/>
+          <measuring-channel ats-code="02" period="30"/>
+          <measuring-channel ats-code="03" period="30"/>
+          <measuring-channel ats-code="04" period="30"/>
+        </measuring-device>
+      </measuring-point>
+      <measuring-point ats-code="562070031107101" measuring-point-type="general" point-voltage="110000">
+        <name connection-name="ввод 110 кВ Т2" location-description="ОРУ-110 кВ" power-object-name="ПС 110 кВ НПЗ"/>
+        <measuring-device ats-code="1" device-modification-code="559A7B5B54A60471E0530A01490A6E4F">
+          <measuring-channel ats-code="01" period="30"/>
+          <measuring-channel ats-code="02" period="30"/>
+          <measuring-channel ats-code="03" period="30"/>
+          <measuring-channel ats-code="04" period="30"/>
+        </measuring-device>
+      </measuring-point>
+      <measuring-point ats-code="562130003113201" measuring-point-type="general" point-voltage="10000">
+        <name location-description="РУ-10 кВ, 2 с.ш. 10 кВ, яч.12" power-object-name="ЦРП-3 10 кВ"/>
+        <measuring-device ats-code="1" device-modification-code="559A7B5B54A60471E0530A01490A6E4F">
+          <measuring-channel ats-code="01" period="30"/>
+          <measuring-channel ats-code="02" period="30"/>
+          <measuring-channel ats-code="03" period="30"/>
+          <measuring-channel ats-code="04" period="30"/>
+        </measuring-device>
+      </measuring-point>
+      <measuring-point ats-code="562070107314101" measuring-point-type="general" point-voltage="6000">
+        <name location-description="РУ-6 кВ, 1 с.ш. 6 кВ, яч.5" power-object-name="ПС 110 кВ НПЗ-2"/>
+        <measuring-device ats-code="1" device-modification-code="559A7B5B54A60471E0530A01490A6E4F">
+          <measuring-channel ats-code="01" period="30"/>
+          <measuring-channel ats-code="02" period="30"/>
+          <measuring-channel ats-code="03" period="30"/>
+          <measuring-channel ats-code="04" period="30"/>
+        </measuring-device>
+      </measuring-point>
+      <measuring-point ats-code="562140001318201" measuring-point-type="general" point-voltage="400">
+        <name connection-name="КЛ-0,4 кВ" location-description="РУ-0,4 кВ, 2 с.ш. 0,4 кВ, яч.1" power-object-name="ТП-50 6 кВ"/>
+        <measuring-device ats-code="1" device-modification-code="559A7B5B56060471E0530A01490A6E4F">
+          <measuring-channel ats-code="01" period="30"/>
+          <measuring-channel ats-code="02" period="30"/>
+          <measuring-channel ats-code="03" period="30"/>
+          <measuring-channel ats-code="04" period="30"/>
+        </measuring-device>
+      </measuring-point>
+      <measuring-point ats-code="562130036113104" measuring-point-type="general" point-voltage="10000">
+        <name connection-name="КЛ-10 кВ ф.30 Водозабор-1" location-description="ЗРУ-10 кВ, 1 с.ш. 10 кВ, яч.30" power-object-name="КП-2 10 кВ"/>
+        <measuring-device ats-code="1" device-modification-code="559A7B5B54A60471E0530A01490A6E4F">
+          <measuring-channel ats-code="01" period="30"/>
+          <measuring-channel ats-code="02" period="30"/>
+          <measuring-channel ats-code="03" period="30"/>
+          <measuring-channel ats-code="04" period="30"/>
+        </measuring-device>
+      </measuring-point>
+      <measuring-point ats-code="562130003214201" measuring-point-type="general" point-voltage="6000">
+        <name location-description="РУ-6 кВ, 2 с.ш. 6 кВ, яч.11" power-object-name="ЦРП-3 10 кВ"/>
+        <measuring-device ats-code="1" device-modification-code="559A7B5B54A60471E0530A01490A6E4F">
+          <measuring-channel ats-code="01" period="30"/>
+          <measuring-channel ats-code="02" period="30"/>
+          <measuring-channel ats-code="03" period="30"/>
+          <measuring-channel ats-code="04" period="30"/>
+        </measuring-device>
+      </measuring-point>
+      <measuring-point ats-code="562130003113101" measuring-point-type="general" point-voltage="10000">
+        <name location-description="РУ-10 кВ, 1 с.ш. 10 кВ, яч.9" power-object-name="ЦРП-3 10 кВ"/>
+        <measuring-device ats-code="1" device-modification-code="559A7B5B54A60471E0530A01490A6E4F">
+          <measuring-channel ats-code="01" period="30"/>
+          <measuring-channel ats-code="02" period="30"/>
+          <measuring-channel ats-code="03" period="30"/>
+          <measuring-channel ats-code="04" period="30"/>
+        </measuring-device>
+      </measuring-point>
+      <measuring-point ats-code="565140001114101" measuring-point-type="general" point-voltage="6000">
+        <name connection-name="ЛМВ-1" location-description="Предпоследняя опора" power-object-name="КВЛ-6 кВ ф.5 ТП-10 на ТП-37, ТП-58 с отпайками"/>
+        <measuring-device ats-code="1" device-modification-code="559A7B5B54A60471E0530A01490A6E4F">
+          <measuring-channel ats-code="01" period="30"/>
+          <measuring-channel ats-code="02" period="30"/>
+          <measuring-channel ats-code="03" period="30"/>
+          <measuring-channel ats-code="04" period="30"/>
+        </measuring-device>
+      </measuring-point>
+      <measuring-point ats-code="562070107107201" measuring-point-type="general" point-voltage="110000">
+        <name connection-name="ввод 110 кВ Т2" location-description="ОРУ-110 кВ" power-object-name="ПС 110 кВ НПЗ-2"/>
+        <measuring-device ats-code="1" device-modification-code="559A7B5B54A60471E0530A01490A6E4F">
+          <measuring-channel ats-code="01" period="30"/>
+          <measuring-channel ats-code="02" period="30"/>
+          <measuring-channel ats-code="03" period="30"/>
+          <measuring-channel ats-code="04" period="30"/>
+        </measuring-device>
+      </measuring-point>
+      <measuring-point ats-code="562130114218101" measuring-point-type="general" point-voltage="400">
+        <name connection-name="КЛ-0,4 кВ" location-description="РУ-0,4 кВ, 1 с.ш. 0,4 кВ, Панель №11" power-object-name="ТП-48 10 кВ"/>
+        <measuring-device ats-code="1" device-modification-code="559A7B5B57130471E0530A01490A6E4F">
+          <measuring-channel ats-code="01" period="30"/>
+          <measuring-channel ats-code="03" period="30"/>
+        </measuring-device>
+      </measuring-point>
+      <measuring-point ats-code="562130001113201" measuring-point-type="general" point-voltage="10000">
+        <name location-description="РУ-10 кВ, 2 с.ш. 10 кВ, яч.30" power-object-name="ЦРП-1А 10 кВ"/>
+        <measuring-device ats-code="1" device-modification-code="559A7B5B54A60471E0530A01490A6E4F">
+          <measuring-channel ats-code="01" period="30"/>
+          <measuring-channel ats-code="02" period="30"/>
+          <measuring-channel ats-code="03" period="30"/>
+          <measuring-channel ats-code="04" period="30"/>
+        </measuring-device>
+      </measuring-point>
+      <measuring-point ats-code="562130003214202" measuring-point-type="general" point-voltage="6000">
+        <name connection-name="КЛ-6 кВ ф.17" location-description="РУ-6 кВ, 2 с.ш. 6 кВ, яч.17" power-object-name="ЦРП-3 10 кВ"/>
+        <measuring-device ats-code="1" device-modification-code="559A7B5B54A60471E0530A01490A6E4F">
+          <measuring-channel ats-code="01" period="30"/>
+          <measuring-channel ats-code="02" period="30"/>
+          <measuring-channel ats-code="03" period="30"/>
+          <measuring-channel ats-code="04" period="30"/>
+        </measuring-device>
+      </measuring-point>
+      <measuring-point ats-code="562140001318101" measuring-point-type="general" point-voltage="400">
+        <name connection-name="ВЛИ-0,4 кВ" location-description="РУ-0,4 кВ, 1 с.ш. 0,4 кВ, яч.4" power-object-name="ТП-50 6 кВ"/>
+        <measuring-device ats-code="1" device-modification-code="559A7B5B56060471E0530A01490A6E4F">
+          <measuring-channel ats-code="01" period="30"/>
+          <measuring-channel ats-code="02" period="30"/>
+          <measuring-channel ats-code="03" period="30"/>
+          <measuring-channel ats-code="04" period="30"/>
+        </measuring-device>
+      </measuring-point>
+    </measuring-points>
+    <measuring-device-modifications>
+      <measuring-device-modification ats-code="559A7B5B57130471E0530A01490A6E4F" device-modification-name="CE 303 S31 746-JAVZ"/>
+      <measuring-device-modification ats-code="559A7B5B56060471E0530A01490A6E4F" device-modification-name="СЭТ-4ТМ.02М.10"/>
+      <measuring-device-modification ats-code="559A7B5B56610471E0530A01490A6E4F" device-modification-name="ЦЭ6803В 1 М7 Р32"/>
+      <measuring-device-modification ats-code="559A7B5B54A60471E0530A01490A6E4F" device-modification-name="СЭТ-4ТМ.02М.02"/>
+    </measuring-device-modifications>
+    <measuring-objects/>
+  </dictionaries>
+</message>

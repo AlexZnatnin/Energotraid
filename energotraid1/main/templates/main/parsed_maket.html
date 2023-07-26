@@ -1,0 +1,23 @@
+{% extends 'main/base.html'%}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+{% block content%}
+<p>Импортированный шаблон: {{filename}}</p>
+{% autoescape off %}
+<p>Результаты:  {{comment}}</p>
+<p>Результаты:  {{comment1}}</p>
+<p>Результаты:  {{comment2}}</p>
+<p>Результаты:  {{comment3}}</p>
+<p>Результаты:  {{comment4}}</p>
+{% endautoescape %}
+<p>{{ file_content }}</p>
+<p><a href = "#">Кнопка для какойнибудь эпичной функции</a></p>
+{% endblock %}
+</body>
+</html>
+

@@ -1,0 +1,22 @@
+{% load main_tags%}
+{% block mainmenu %}
+<div>
+    <ul>
+
+
+        <li><a href="{%url 'cp'%}">Контрагенты</a></li>
+        <li><a href="{%url 'cont'%}">Договоры</a></li>
+        <li><a href="{%url 'area'%}">Сечения</a></li>
+        <li><a href="{%url 'tu' %}">Точки учета</a></li>
+        <li><a href="{%url 'measuring_point' %}">Точки измерения</a></li>
+        <li><a href="{%url 'measuring_channel'%}">Измерительные каналы</a></li>
+        <li><a href="{%url 'measuring_data'%}">Данные измерений</a></li>
+        <li><a href="{%url 'rate' %}">Тарифы</a></li>
+        <li><a href="{%url 'import1'%}">Импорт макетов</a></li>
+        <li><a href="{%url 'uploaded_maket'%}">Макеты</a></li>
+
+
+    </ul>
+    <div class="clear"></div>
+</div>
+{% endblock mainmenu %}

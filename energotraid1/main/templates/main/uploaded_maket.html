@@ -1,0 +1,33 @@
+{% extends 'main/base.html' %}
+{% block content %}
+<style>
+    .section {
+        border: 1px solid #ccc;
+        padding: 10px;
+        margin-bottom: 10px;
+        color: black;
+    }
+    .section code {
+        font-size: 14px;
+        display: block;
+    }
+    .section p {
+        margin: 0;
+    }
+    .section a {
+        margin-right: 10px;
+    }
+</style>
+
+<h1>Макеты</h1>
+
+{% for n in maket %}
+<div class="section">
+    <p>файл: {{ n.file }} загружен: {{ n.uploaded_at }}</p>
+    <a href="{% url 'import_data_80000' n.pk %}">Загрузка данных</a>
+    <a href="#">удалить</a>
+</div>
+{% endfor %}
+
+<p><a href="#"></a></p>
+{% endblock %}

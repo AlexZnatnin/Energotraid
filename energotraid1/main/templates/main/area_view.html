@@ -1,0 +1,74 @@
+{% extends 'main/base.html' %}
+{% block content %}
+<style>
+    .section {
+        border: 1px solid #ccc;
+        padding: 10px;
+        margin-bottom: 10px;
+        color: black;
+    }
+    .section code {
+        font-size: 14px;
+        display: block;
+    }
+    .section p {
+        margin: 0;
+    }
+    .section a {
+        margin-right: 10px;
+    }
+</style>
+
+<h1>Расчётная модель для сечения</h1>
+
+<div class="section">
+    <h2>Area ATS Code:</h2>
+    <p><code>{{ calc_model_instance.area_ats_code }}</code></p>
+</div>
+
+<div class="section">
+    <h2>GTP List:</h2>
+    <ul>
+        {% for gtp in my_object.gtp_list %}
+            <li>{{ gtp }}</li>
+        {% endfor %}
+    </ul>
+</div>
+
+<div class="section">
+    <h2>Delivery Point List:</h2>
+    <ul>
+        {% for delivery_point in calc_model_instance.delivery_point_list %}
+            <li>{{ delivery_point }}</li>
+        {% endfor %}
+    </ul>
+</div>
+
+<div class="section">
+    <h2>Measuring Point List:</h2>
+    <ul>
+        {% for measuring_point in calc_model_instance.measuring_point_list %}
+            <li>{{ measuring_point }}</li>
+        {% endfor %}
+    </ul>
+</div>
+
+<div class="section">
+    <h2>Расчёт коммерческих показателей:</h2>
+    <ul>
+        <!-- Add your calculation results here -->
+    </ul>
+
+    <form method="POST" action="{% url 'calculate' %}">
+
+        {% csrf_token %}
+        <label for="start_day">Начальный день:</label>
+        <input type="date" name="start_day" id="start_day">
+
+        <label for="end_day">Конечный день:</label>
+        <input type="date" name="end_day" id="end_day">
+
+        <button type="submit">Рассчитать</button>
+    </form>
+</div>
+{% endblock %}

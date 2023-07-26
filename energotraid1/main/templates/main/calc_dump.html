@@ -1,0 +1,35 @@
+{% extends 'main/base.html'%}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>дамп</title>
+</head>
+<body>
+<style>
+    .section {
+        border: 1px solid #ccc;
+        padding: 10px;
+        margin-bottom: 10px;
+        color: black;
+    }
+    .section code {
+        font-size: 14px;
+        display: block;
+    }
+    .section p {
+        margin: 0;
+    }
+    .section a {
+        margin-right: 10px;
+    }
+</style>
+{% block content%}
+<div class="section">
+    <h2>Произведен расчёт коммерческих показателей за период:</h2>
+<p>Начало: {{ start_day }}</p>
+<p>Конец: {{ end_day }}</p>
+    {% endblock %}
+</div>
+</body>
+</html>
